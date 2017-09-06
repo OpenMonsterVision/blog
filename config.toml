@@ -1,18 +1,19 @@
-baseURL = "https://openmonstervision.github.io/blog/"
-languageCode = "en-us"
-title = "Open Monster Vision"
-theme = "hugo-theme-cactus-plus"
-contentDir = "content"
-layoutDir = "layouts"
-publishDir = "docs"
-buildDrafts = false
-canonifyURLs = true
+baseURL       = "https://openmonstervision.github.io/blog/"
+languageCode  = "en-us"
+title         = "Open Monster Vision"
+theme         = "hugo-theme-cactus-plus"
+contentDir    = "content"
+layoutDir     = "layouts"
+publishDir    = "docs"
+buildDrafts   = true
+canonifyURLs  = true
+archetypeDir  = "archetypes"
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+    category = "categories"
+    tag      = "tags"
 
 [params]
-  subtitle = "Coding and Stuff"
-  author = "BSDPunk and Trozdol"
-  archive = "archive"
+    subtitle = "Coding and Stuff"
+    author   = "BSDPunk and Trozdol"
+    archive  = "archive"
