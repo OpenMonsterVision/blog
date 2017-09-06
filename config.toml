@@ -13,5 +13,5 @@ canonifyURLs = true
   tag = "tags"
 
 [params]
-  subtitle = "Hugo is Absurdly Fast!"
-  author = "John Doe"
+  subtitle = "Coding and Stuff"
+  author = "BSDPunk and Trozdol"
