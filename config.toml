@@ -4,7 +4,7 @@ title = "Open Monster Vision"
 theme = "hugo-theme-cactus-plus"
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "docs"
 buildDrafts = false
 canonifyURLs = true
 
