@@ -2,6 +2,6 @@
 	path = themes/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
-	path = public
+	path = docs
 	url = https://openmonstervision/openmonstervision.github.io
 	branch = master
