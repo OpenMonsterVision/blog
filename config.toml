@@ -1,4 +1,4 @@
-baseURL = "public/"
+baseURL = "openmonstervision.github.io/public/"
 languageCode = "en-us"
 title = "Open Monster Vision"
 theme = "hugo-theme-cactus-plus"
