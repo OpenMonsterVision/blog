@@ -11,8 +11,7 @@ canonifyURLs = true
 [taxonomies]
   category = "categories"
   tag = "tags"
-
+  archive = "archive"
 [params]
   subtitle = "Coding and Stuff"
   author = "BSDPunk and Trozdol"
-  archive = "archive"
