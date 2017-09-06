@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-us">
 	<head>
 		<meta charset="utf-8">
@@ -7,7 +7,7 @@
 		
 		
 		<meta name="generator" content="Hugo 0.26" />
-		<title>Open Monster Vision</title>
+		<title>Tags &middot; Open Monster Vision</title>
 		<link rel="shortcut icon" href="https://openmonstervision.github.io/images/favicon.ico">
 		<link rel="stylesheet" href="https://openmonstervision.github.io/css/style.css">
 		<link rel="stylesheet" href="https://openmonstervision.github.io/css/highlight.css">
@@ -20,9 +20,11 @@
 		
 	</head>
 
-	<body>
-    <nav class="main-nav">
+   <body>
+      <nav class="main-nav">
 	
+	
+		<a href='https://openmonstervision.github.io/'> <span class="arrow">←</span>Home</a>
 	
 	<a href='https://openmonstervision.github.io/post'>Archive</a>
 	<a href='https://openmonstervision.github.io/tags'>Tags</a>
@@ -33,8 +35,7 @@
 	
 </nav>
 
-
-    <div class="profile">
+      <div class="profile">
     <section id="wrapper">
         <header id="header">
             <a href='https://openmonstervision.github.io/about'>
@@ -47,25 +48,12 @@
 </div>
 
 
-    <section id="wrapper" class="home">
-        <ul id="post-list">
-    
-    
-        
-            <li>
-                <a href='https://openmonstervision.github.io/posts/my-first-post/'><aside class="dates">Sep 6</aside></a>
-                <a href='https://openmonstervision.github.io/posts/my-first-post/'>
-                    My First Post <h2></h2>
-                </a>
-            </li>
-        
-    
-</ul>
 
-        <nav id="post-nav">
-    
-</nav>
-        <footer id="footer">
+       <section id="wrapper" class="tags">
+           <div class="page-tags" id="tags">
+               
+           </div>
+           <footer id="footer">
     
     <p class="small">
     
@@ -77,9 +65,9 @@
     </p>
 </footer>
 
-    </section>
+       </section>
 
-    <script src="https://openmonstervision.github.io/js/jquery-2.2.4.min.js"></script>
+       <script src="https://openmonstervision.github.io/js/jquery-2.2.4.min.js"></script>
 <script src="https://openmonstervision.github.io/js/main.js"></script>
 <script src="https://openmonstervision.github.io/js/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -90,5 +78,17 @@
 
 
 
-    </body>
+       <script src="https://openmonstervision.github.io/js/jquery.tagcloud.js"></script>
+<script type="text/javascript">
+$.fn.tagcloud.defaults = {
+  size: {start: 10, end: 16, unit: 'pt'},
+  color: {start: '#bbb', end: '#f52'}
+};
+
+$(function () {
+  $('#tags a').tagcloud();
+});
+</script>
+
+   </body>
 </html>
