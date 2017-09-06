@@ -1,5 +1,5 @@
-baseURL = "http://openmonstervision.github.io:1313/"
+baseURL = "https://openmonstervision.github.io/"
 languageCode = "en-us"
 title = "Open Monster Vision"
 theme = "hugo-theme-cactus-plus"
-
+publishDir = "docs"

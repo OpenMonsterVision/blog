@@ -1,0 +1,3 @@
+baseURL: "https://openmonstervision.github.io/"
+title: "Open MonsterVision"
+publishDir: docs
