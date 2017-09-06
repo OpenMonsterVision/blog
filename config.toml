@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "Open Monster Vision"
 theme = "hugo-theme-cactus-plus"
