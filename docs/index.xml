@@ -6,27 +6,19 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 17:17:08 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 16:24:00 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What What in the Butt Part 2</title>
-      <link>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt-part-2/</link>
-      <pubDate>Wed, 06 Sep 2017 17:17:08 -0500</pubDate>
+      <title>Failing an Sre Interview</title>
+      <link>https://openmonstervision.github.io/blog/posts/failing-an-sre-interview/</link>
+      <pubDate>Wed, 06 Sep 2017 16:24:00 -0500</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt-part-2/</guid>
-      <description> Hey World&amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>What What in the Butt</title>
-      <link>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt/</link>
-      <pubDate>Wed, 06 Sep 2017 16:08:54 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt/</guid>
-      <description> Hey World&amp;hellip; </description>
+      <guid>https://openmonstervision.github.io/blog/posts/failing-an-sre-interview/</guid>
+      <description>How Not to get an SRE job
+I&amp;rsquo;ve interviewed for an SRE position at google, facebook, and more recently an unamed company that ranks within the the top 25 most visited internet sites.</description>
     </item>
     
     <item>
@@ -40,10 +32,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://openmonstervision.github.io/blog/posts/my-first-post/</link>
+      <link>https://openmonstervision.github.io/blog/posts/sample/</link>
       <pubDate>Wed, 06 Sep 2017 12:24:42 -0500</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/posts/my-first-post/</guid>
+      <guid>https://openmonstervision.github.io/blog/posts/sample/</guid>
       <description>body
 function sendMessage(message, callback) { if (!message) return callback(false); return callback(true); } sendMessage(&#39;some message&#39;, function (status) { if (status) return &#39;message sent&#39;; return &#39;message not sent&#39;; }); // function with optional callback // function doThing(optionalCallback) { console.log(&#39;doThing()&#39;); // if callback provided we can use otherwise return a value // if (optionalCallback &amp;amp;&amp;amp; (typeof optionalCallback === &#39;function&#39;)) { console.log(&#39;callback exists and is fn&#39;); return optionalCallback(); } else { return console.log(&#39;no callb ack so just return this log&#39;); } } doThing(); doThing(function () { console.</description>
     </item>

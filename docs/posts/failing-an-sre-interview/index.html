@@ -7,7 +7,7 @@
 		
 		
 		<meta name="generator" content="Hugo 0.26" />
-		<title>My First Post &middot; Open Monster Vision</title>
+		<title>Failing an Sre Interview &middot; Open Monster Vision</title>
 		<link rel="shortcut icon" href="https://openmonstervision.github.io/blog/images/favicon.ico">
 		<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/style.css">
 		<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/highlight.css">
@@ -40,11 +40,11 @@
             <article class="post">
                 <header>
                     <h1>
-                        My First Post
+                        Failing an Sre Interview
                     </h1>
                     <h2 class="headline">
-                    Sep 6, 2017 12:24
-                    · 156 words
+                    Sep 6, 2017 16:24
+                    · 33 words
                     · 1 minute read
                       <span class="tags">
                       
@@ -53,67 +53,9 @@
                 </header>
                 
                 <section id="post-body">
-                    <p>body</p>
+                    <p>How Not to get an SRE job</p>
 
-<pre><code class="language-javascript">function sendMessage(message, callback) {
-    if (!message) return callback(false);
-    return callback(true);
-}
-
-sendMessage('some message', function (status) {
-    if (status) return 'message sent';
-    return 'message not sent';
-});
-
-
-// function with optional callback
-//
-function doThing(optionalCallback) {
-    console.log('doThing()');
-
-    // if callback provided we can use otherwise return a value
-    //
-    if (optionalCallback &amp;&amp; (typeof optionalCallback === 'function')) {
-        console.log('callback exists and is fn');
-        return optionalCallback();
-    } else {
-        return console.log('no callb ack so just return this log');
-    }
-}
-
-doThing();
-
-doThing(function () {
-    console.log('doThing() callback()');
-});
-
-
-// create a function to check if param is callback for reuse.
-//
-function isFn(fn) {
-    console.log('ifFn() check to see if fn is who it claims to be');
-    if (fn &amp;&amp; (typeof fn === 'function')) return true;
-    return false;
-}
-
-function doThing2(optionalCallback) {
-    console.log('doThing2() optionalCallback()');
-
-    if (isFn(optionalCallback)) {
-        return optionalCallback();
-    } else {
-        return console.log('no callb ack so just return this log');
-    }
-}
-
-
-doThing2();
-
-doThing2(function () {
-    console.log('doThing2() callback()');
-});
-
-</code></pre>
+<p>I&rsquo;ve interviewed for an SRE position at google, facebook, and more recently an unamed company that ranks within the the top 25 most visited internet sites.</p>
 
                 </section>
             </article>
