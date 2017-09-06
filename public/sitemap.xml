@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>public/posts/my-first-post/</loc>
     <lastmod>2017-09-06T12:24:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-09-06T12:24:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+    <loc>public/</loc>
     <lastmod>2017-09-06T12:24:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>public/posts/</loc>
+    <lastmod>2017-09-06T12:24:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>public/tags/</loc>
     <priority>0</priority>
   </url>
   
