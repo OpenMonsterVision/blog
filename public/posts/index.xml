@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Open Monster Vision</title>
-    <link>public/posts/</link>
+    <link>openmonstervision.github.io/public/posts/</link>
     <description>Recent content in Posts on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Sep 2017 12:24:42 -0500</lastBuildDate>
     
-	<atom:link href="public/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="openmonstervision.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>public/posts/my-first-post/</link>
+      <link>openmonstervision.github.io/public/posts/my-first-post/</link>
       <pubDate>Wed, 06 Sep 2017 12:24:42 -0500</pubDate>
       
-      <guid>public/posts/my-first-post/</guid>
+      <guid>openmonstervision.github.io/public/posts/my-first-post/</guid>
       <description>body
 function sendMessage(message, callback) { if (!message) return callback(false); return callback(true); } sendMessage(&#39;some message&#39;, function (status) { if (status) return &#39;message sent&#39;; return &#39;message not sent&#39;; }); // function with optional callback // function doThing(optionalCallback) { console.log(&#39;doThing()&#39;); // if callback provided we can use otherwise return a value // if (optionalCallback &amp;amp;&amp;amp; (typeof optionalCallback === &#39;function&#39;)) { console.log(&#39;callback exists and is fn&#39;); return optionalCallback(); } else { return console.log(&#39;no callb ack so just return this log&#39;); } } doThing(); doThing(function () { console.</description>
     </item>
