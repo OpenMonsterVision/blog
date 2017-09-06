@@ -1,9 +1,3 @@
-[submodule "themes/hugo-base16-theme"]
-	path = themes/hugo-base16-theme
-	url = https://github.com/htdvisser/hugo-base16-theme
-[submodule "themes/sublime-hugo-theme"]
-	path = themes/sublime-hugo-theme
-	url = https://github.com/dt801ts/sublime-hugo-theme
 [submodule "themes/themes/ananke"]
 	path = themes/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
