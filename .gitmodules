@@ -5,3 +5,7 @@
 	path = public
 	url = https://openmonstervision/openmonstervision.github.io
 	branch = master
+[submodule "openmonstervision.github.io"]
+	path = openmonstervision.github.io
+	url = git@github.com:openmonstervision/openmonstervision.github.io
+	branch = master

@@ -2,4 +2,16 @@ baseURL = "https://openmonstervision.github.io/"
 languageCode = "en-us"
 title = "Open Monster Vision"
 theme = "hugo-theme-cactus-plus"
-publishDir = "docs"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+canonifyURLs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  subtitle = "Hugo is Absurdly Fast!"
+  author = "John Doe"
