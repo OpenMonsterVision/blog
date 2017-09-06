@@ -1,0 +1,5 @@
+baseURL = "http://openmonstervision.github.io:1313/"
+languageCode = "en-us"
+title = "Open Monster Vision"
+theme = "hugo-theme-cactus-plus"
+
