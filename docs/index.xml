@@ -6,10 +6,19 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 16:24:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 17:17:08 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What What in the Butt Part 2</title>
+      <link>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt-part-2/</link>
+      <pubDate>Wed, 06 Sep 2017 17:17:08 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt-part-2/</guid>
+      <description> Hey World&amp;hellip; Part 2 </description>
+    </item>
     
     <item>
       <title>Failing an Sre Interview</title>
@@ -22,12 +31,22 @@ I&amp;rsquo;ve interviewed for an SRE position at google, facebook, and more rec
     </item>
     
     <item>
+      <title>What What in the Butt</title>
+      <link>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt/</link>
+      <pubDate>Wed, 06 Sep 2017 16:08:54 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/what-what-in-the-butt/</guid>
+      <description> Hey World&amp;hellip; </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://openmonstervision.github.io/blog/about/</link>
       <pubDate>Wed, 06 Sep 2017 15:56:22 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/about/</guid>
-      <description>JavaScript Developer with Design Background and Old school linux admin, word vomit on a blog</description>
+      <description> JavaScript Developer with Design Background and Old school linux admin, word vomit on a blog
+ </description>
     </item>
     
     <item>
