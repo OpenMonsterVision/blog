@@ -15,3 +15,4 @@ canonifyURLs = true
 [params]
   subtitle = "Coding and Stuff"
   author = "BSDPunk and Trozdol"
+  archive = "archive"
