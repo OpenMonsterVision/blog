@@ -6,20 +6,10 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 16:24:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 15:56:22 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Failing an Sre Interview</title>
-      <link>https://openmonstervision.github.io/blog/posts/failing-an-sre-interview/</link>
-      <pubDate>Wed, 06 Sep 2017 16:24:00 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/failing-an-sre-interview/</guid>
-      <description>How Not to get an SRE job
-I&amp;rsquo;ve interviewed for an SRE position at google, facebook, and more recently an unamed company that ranks within the the top 25 most visited internet sites.</description>
-    </item>
     
     <item>
       <title>About</title>
