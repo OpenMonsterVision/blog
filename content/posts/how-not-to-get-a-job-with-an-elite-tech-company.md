@@ -11,7 +11,7 @@ I am the Michael Jordan, of not achieving an engineering position with elite sil
 
 # Well if you're so good, you must be a psychopath or have crazy videos floating around. 
 
-Well, yeah. [Sphere](https://sphere.ms) once sent me an application for a go developer position, that requested I send back an essay that discussed how I met their core values. One of those values, was informallness so instead of an essay I sent a [sound file](https://soundcloud.com/dusty-lane-carver/sphere-interview) explaining I was informal, drunk, and shirtless. They actually advanced me on to the next round, but my code wasn't up to snuff. They didn't like my go CRUD application, [getFilthy](https://github.com/bsdpunk/GetFilthy) ![alt text](https://github.com/bsdpunk/GetFilthy/raw/master/get-filthy.png "Get Filthy")
+Well, yeah. [Sphere](https://sphere.ms) once sent me an application for a go developer position, that requested I send back an essay that discussed how I met their core values. One of those values, was informalness so instead of an essay I sent a [sound file](https://soundcloud.com/dusty-lane-carver/sphere-interview) explaining I was informal, drunk, and shirtless. They actually advanced me on to the next round, but my code wasn't up to snuff. They didn't like my go CRUD application, [getFilthy](https://github.com/bsdpunk/GetFilthy) ![alt text](https://github.com/bsdpunk/GetFilthy/raw/master/get-filthy.png "Get Filthy")
 
 
 Also I routinely answer personality questions strangely: 
