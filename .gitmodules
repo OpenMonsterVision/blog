@@ -2,6 +2,6 @@
 	path = themes/BluestNight
 	url = https://gitlab.com/Shadow53/BluestNight.git
 	
-#[submodule "hugo-theme-cactus-plus"]
-#	path = themes/hugo-theme-cactus-plus
-#	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
+[submodule "hugo-theme-cactus-plus"]
+	path = themes/hugo-theme-cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
