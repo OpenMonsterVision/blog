@@ -5,7 +5,7 @@ draft: false
 ---
 
 # I am an Expert 
-Let's establish the parameters of what makes me an expert on not getting an elite job with a tech company. I have interviewed for an SRE(Site Reliability Engineer) role, at both Google and facebook, and failed to achieve those positions. Last month I interviewed for an SRE for one of the top 25 most visited sites, and also failed to achieve that position. Why on September 10th I didn't even bother to respond to this Vimeo voice mail ![visual voicemail](https://i.imgur.com/BT7zpni.png "Visual VoiceMail")
+Let's establish the parameters of what makes me an expert on not getting an elite job with a tech company. I have interviewed for an SRE(Site Reliability Engineer) role, at both Google and facebook, and failed to achieve those positions. Last month I interviewed for an SRE for one of the top 25 most visited sites, and also failed to achieve that position. Why on September 13th I didn't even bother to respond to this Vimeo voice mail ![visual voicemail](https://i.imgur.com/BT7zpni.png "Visual VoiceMail")
 
 I am the Michael Jordan, of not achieving an engineering position with elite Silicon Valley tech companies. Now your thinking, well you must not be good at what you do. Oh contraire, I am. In some of these interviews, I have passed the coding part, and in some the operations part. And in some none or all. 
 
