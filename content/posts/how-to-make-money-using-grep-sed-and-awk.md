@@ -36,7 +36,7 @@ This functions basically removes all the commas in between quotes in a csv, then
 
 Let's look at the code:
 
-``` shell
+``` bash
 set -o nounset                              # Treat unset variables as an error
 BROAD=$(grep '[A-Z]\.' c.txt -A2 -B9)
 #List of all Skus

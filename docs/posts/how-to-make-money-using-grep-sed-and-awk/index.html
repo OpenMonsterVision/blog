@@ -88,7 +88,7 @@ brew install tesseract
 
 <p>Let&rsquo;s look at the code:</p>
 
-<pre><code class="language-shell">set -o nounset                              # Treat unset variables as an error
+<pre><code class="language-bash">set -o nounset                              # Treat unset variables as an error
 BROAD=$(grep '[A-Z]\.' c.txt -A2 -B9)
 #List of all Skus
 #LIST=$(grep -P -o '\d{5}-\d{2}\w{0,1}' c.txt | sort | uniq )
