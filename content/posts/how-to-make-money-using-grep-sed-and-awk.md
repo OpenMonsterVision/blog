@@ -85,7 +85,7 @@ done
 
 ## A note about BSD tools vs GNU tools
 
-I started doing this on my macbook air, Mac OS X uses the bsd cousins of grep and sed. More and more, for various reasons I saw myself using ggrep and gsed, rather than grep and sed. Mostly because of how the BSD sed deals with new lines, and because on occasion I wanted to use PCRE regex with grep, ie the -P flag. Eventually I fully switched to a linux enviroment, using the GNU toolset. The final straw actually had nothing to do with the tools, the resolution\screen space on MacBook Air, didn't allow me to see the lines the way I wanted them. So I switched to a debian system in the final rounds of the script.
+I started doing this on my macbook air, Mac OS X uses the bsd cousins of grep and sed. More and more, for various reasons I saw myself using ggrep and gsed, rather than grep and sed. Mostly because of how the BSD sed deals with new lines, and because on occasion I wanted to use PCRE regex with grep, ie the -P flag. Eventually I fully switched to a linux enviroment, using the GNU toolset. The final straw actually had nothing to do with the tools, the resolution\screen space on MacBook Air, didn't allow me to see the lines the way I wanted them in a vimdiff. So I switched to a debian system in the final rounds of the script.
 
 # Hey Guys Don't Forget about my poor cats
 
