@@ -71,7 +71,7 @@ do
     NAME=$(echo $NAME | sed "s/$/ - ${n}/" )
     if [[ ! -z $n ]]
     then
-        FINAL=$(echo "\"$HANDLE\", \"$NAME\" , \"$DESCRIPTION\", \"Harley Davidson\", \"\" , , \"\", \"Title\", \"Default Title\", , , , , \"$n\", ,,,,,\"$VARPRICE\",\"$PRICE\"")
+        FINAL=$(echo "\"$HANDLE\", \"$NAME\" , \"$DESCRIPTION\", \"Vendor\", \"\" , , \"\", \"Title\", \"Default Title\", , , , , \"$n\", ,,,,,\"$VARPRICE\",\"$PRICE\"")
     fi
     if [[ ! -z $FINAL ]]
     then
