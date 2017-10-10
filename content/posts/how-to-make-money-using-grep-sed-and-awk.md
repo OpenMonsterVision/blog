@@ -1,7 +1,7 @@
 ---
 title: "How to Make Money Using Grep Sed and Awk"
 date: 2017-10-10T04:53:45-05:00
-draft: true
+draft: false
 ---
 # The Who
 
