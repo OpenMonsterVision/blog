@@ -26,7 +26,7 @@ All and all when this hideous brain child was finished, I had about an 87 percen
 
 There are things I regret, and things I regret. I am ashamed to admit this but one of the earlier things I did was strip all the quotes out of the resulting pdftotext file. Which was mostly so I could clean up the commas using this function:
 
-`` shell
+``` shell
 function rqc () { awk -F'"' -v OFS='' '{ for (i=2; i<=NF; i+=2) gsub(",", "", $i) } 1' $@ | sed 's/"//g' ;}
 ```
 This functions basically removes all the commas in between quotes in a csv, then removes the quotes. Yeah, for sure, there were better ways to deal with that. But it's not like I have a peer group of other regexers at beck and call.

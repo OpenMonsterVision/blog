@@ -44,7 +44,7 @@
                     </h1>
                     <h2 class="headline">
                     Oct 10, 2017 04:53
-                    · 733 words
+                    · 728 words
                     · 4 minutes read
                       <span class="tags">
                       
@@ -79,18 +79,16 @@ brew install tesseract
 
 <p>There are things I regret, and things I regret. I am ashamed to admit this but one of the earlier things I did was strip all the quotes out of the resulting pdftotext file. Which was mostly so I could clean up the commas using this function:</p>
 
-<p>`` shell
-function rqc () { awk -F&rsquo;&ldquo;&rsquo; -v OFS=&rdquo; &lsquo;{ for (i=2; i&lt;=NF; i+=2) gsub(&ldquo;,&rdquo;, &ldquo;&rdquo;, $i) } 1&rsquo; $@ | sed &rsquo;s/&ldquo;//g&rsquo; ;}</p>
+<pre><code class="language-shell">function rqc () { awk -F'&quot;' -v OFS='' '{ for (i=2; i&lt;=NF; i+=2) gsub(&quot;,&quot;, &quot;&quot;, $i) } 1' $@ | sed 's/&quot;//g' ;}
+</code></pre>
 
-<pre><code>This functions basically removes all the commas in between quotes in a csv, then removes the quotes. Yeah, for sure, there were better ways to deal with that. But it's not like I have a peer group of other regexers at beck and call.
+<p>This functions basically removes all the commas in between quotes in a csv, then removes the quotes. Yeah, for sure, there were better ways to deal with that. But it&rsquo;s not like I have a peer group of other regexers at beck and call.</p>
 
+<h1 id="the-ugly">The Ugly</h1>
 
-# The Ugly
+<p>Let&rsquo;s look at the code:</p>
 
-Let's look at the code:
-
-``` shell
-set -o nounset                              # Treat unset variables as an error
+<pre><code class="language-shell">set -o nounset                              # Treat unset variables as an error
 BROAD=$(grep '[A-Z]\.' c.txt -A2 -B9)
 #List of all Skus
 #LIST=$(grep -P -o '\d{5}-\d{2}\w{0,1}' c.txt | sort | uniq )
