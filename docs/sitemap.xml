@@ -18,12 +18,54 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/bash/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/csv/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/grep/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/interviews/</loc>
+    <lastmod>2017-09-21T11:09:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/linux/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/pdf/</loc>
     <lastmod>2017-10-10T04:53:45-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -35,7 +77,32 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/satire/</loc>
+    <lastmod>2017-09-21T11:09:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/sed/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/shoppify/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/sre/</loc>
+    <lastmod>2017-09-21T11:09:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/</loc>
+    <lastmod>2017-10-10T04:53:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   

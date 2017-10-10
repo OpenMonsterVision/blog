@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Open Monster Vision</title>
+    <link>https://openmonstervision.github.io/blog/tags/linux/</link>
+    <description>Recent content in Linux on Open Monster Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 04:53:45 -0500</lastBuildDate>
+    
+	<atom:link href="https://openmonstervision.github.io/blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Make Money Using Grep Sed and Awk</title>
+      <link>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</link>
+      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</guid>
+      <description>The Who I&amp;rsquo;m your friendly neighborhood unix man. And I have a problem. I love regex. Now I have two problems.
+The Why Recently I have become destitute so I have taken to using the skills I have to provide for my poor sick family. It&amp;rsquo;s mostly disabled cats. And when all you have is hammer, everything gets nailed. So I thought, you know what people probably don&amp;rsquo;t automate enough of&amp;hellip;Data Entry.</description>
+    </item>
+    
+    <item>
+      <title>How Not to Get a Job With an Elite Tech Company</title>
+      <link>https://openmonstervision.github.io/blog/posts/how-not-to-get-a-job-with-an-elite-tech-company/</link>
+      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-get-a-job-with-an-elite-tech-company/</guid>
+      <description>I am an Expert Let&amp;rsquo;s establish the parameters of what makes me an expert on not getting an elite job with a tech company. I have interviewed for an SRE(Site Reliability Engineer) role, at both Google and facebook, and failed to achieve those positions. Last month I interviewed for an SRE for one of the top 25 most visited sites, and also failed to achieve that position. Why on September 13th I didn&amp;rsquo;t even bother to respond to this Vimeo voice mail I am the Michael Jordan, of not achieving an engineering position with elite Silicon Valley tech companies.</description>
+    </item>
+    
+  </channel>
+</rss>

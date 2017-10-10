@@ -1,6 +1,7 @@
 ---
 title: "How Not to Get a Job With an Elite Tech Company"
 date: 2017-09-21T11:09:02-05:00
+tags : ["interviews","sre","linux","satire"]
 draft: false
 ---
 
