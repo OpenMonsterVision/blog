@@ -88,6 +88,6 @@ I started doing this on my macbook air, Mac OS X uses the bsd cousins of grep an
 
 # Hey Guys Don't Forget about my poor cats
 
-My cats, they are [blind](https://www.instagram.com/p/BZ7QyBZjbu0/?taken-by=bsdpunk "Felicity"), they are missing [limbs](https://www.instagram.com/p/BZ7Kw9qjG5E/?taken-by=bsdpunk "Charlie"). Please purchase a book about [regex]{https://www.amazon.com/gp/product/0596528124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596528124&linkId=889140c1615f2cd3e4373dfe9ebc0be7 "Regex Book Amazon") Or a book about [successful coders](https://www.amazon.com/gp/product/1430219483/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1430219483&linkId=b43558af067f9b7ba9b51c625832d542 "Coders At Work, Amazon")
+My cats, they are [blind](https://www.instagram.com/p/BZ7QyBZjbu0/?taken-by=bsdpunk "Felicity"), they are missing [limbs](https://www.instagram.com/p/BZ7Kw9qjG5E/?taken-by=bsdpunk "Charlie"). Please purchase a book about [regex](https://www.amazon.com/gp/product/0596528124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596528124&linkId=889140c1615f2cd3e4373dfe9ebc0be7 "Regex Book Amazon") Or a book about [successful coders](https://www.amazon.com/gp/product/1430219483/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1430219483&linkId=b43558af067f9b7ba9b51c625832d542 "Coders At Work, Amazon")
 
 # 
