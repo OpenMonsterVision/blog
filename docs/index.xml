@@ -6,10 +6,20 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 04:53:45 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 08:04:14 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points</title>
+      <link>https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/</guid>
+      <description>The Who I don&amp;rsquo;t know how to tie my shoes, this will come into play later.
+The Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn&amp;rsquo;t remember DraftKings is legal because it&amp;rsquo;s a game of skill. The Code Let&amp;rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady &amp;lt;- read.</description>
+    </item>
     
     <item>
       <title>How to Make Money Using Grep Sed and Awk</title>

@@ -2,7 +2,7 @@
 title: "Building a Neural Net to Predict Tom Brady's Fantasy Points"
 date: 2017-10-19T08:04:14-05:00
 tags : ["R","Rlang","Machine Learning","NFL", "DraftKings", "Daily Fantasy", "Predictive Math"]
-draft: false
+draft: true
 ---
 
 # The Who
