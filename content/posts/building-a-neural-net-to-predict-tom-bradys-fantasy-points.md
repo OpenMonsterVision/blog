@@ -55,7 +55,7 @@ Holy shit! .92 correlation....ZOMG....Wait, let me check something. Oh wow, just
 
 ![Numbers] (https://i.imgur.com/JSFQoJD.png "Numbers")
 
-You can see these numbers are relatively close, but again, results this good were more of a fluke, of randomness, and they aren't particularly close.
+You can see these numbers are relatively close, but again, results this good were more of a fluke, of randomness, and they aren't worth betting on.
 
 # What you should do from here?
 
