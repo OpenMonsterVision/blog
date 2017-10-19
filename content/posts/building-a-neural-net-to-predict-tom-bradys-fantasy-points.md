@@ -53,7 +53,7 @@ cor(predicted_tom, tom_test$Act)
 
 Holy shit! .92 correlation....ZOMG....Wait, let me check something. Oh wow, just luck with my random seed. Half the time the code doesn't even work. This is your fault though, you thought someone who couldn't tie their shoes, and made DJ Kahled jokes was going to give you the secret of wealth. Well why doesn't it work? Probably because football players don't generate enough data, in a career to do a real analysis? I don't know, remember I can't tie my shoes. Actual numeric results:
 
-![Numbers] (https://imgur.com/a/ZIqaA "Numbers")
+![Numbers] (https://i.imgur.com/JSFQoJD.png "Numbers")
 
 You can see these numbers are relatively close, but again, results this good were more of a fluke, of randomness, and they aren't particularly close.
 
