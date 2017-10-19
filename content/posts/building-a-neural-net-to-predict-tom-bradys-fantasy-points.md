@@ -17,7 +17,7 @@ So we can all make lots of money gambling. Wait, is it even gambling then? Oh no
 
 Let's Build this thing. I used R, you can use whatever plebian language you prefer. ![NeuralNet Visual Representation] (https://i.imgur.com/Duj63gI.png "Neural Net Visual")
 
-``` R
+``` rlang
 #Import Tom Brady Data
 tombrady <- read.csv('~/work/TomBrady.csv')
 str(tombrady)
