@@ -6,7 +6,7 @@ draft: false
 
 # The What
 
-I lied, this isn't a goddamned conversation, there's no commenting on this blog. Your going to listen to why the title recruiter is another way of saying "demon from the really lame Dante's Inferno", were you waste time for all eternity. There are exceptions of course, see the section entitled 
+I lied, this isn't a goddamned conversation, there's no commenting on this blog. Your going to listen to why the title recruiter is another way of saying demon from the really lame Dante's Inferno level, were you waste time for all eternity. There are exceptions of course, see the section entitled 
 
 # The Why
 
@@ -35,4 +35,4 @@ Pictured: Recruiter
 
 # The Who
 
-My name is @bsdpunk, and I sleep like a goddamn baby. Come at me, bro.
+My name is [@bsdpunk](http://twitter.com/bsdpunk), and I sleep like a goddamn baby. Come at me, bro.
