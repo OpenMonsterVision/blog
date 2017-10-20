@@ -18,7 +18,7 @@ They take up 80% of my time and get me 0% of my jobs.
 
 # The Exceptions
 
-Of course recruiters who are employed by the company your interviewing for, are exceptions. I also haven't had negative experiences with smaller firms, or independent recruiters. I think there is something to be said about not sitting in an office with 20 other monsters also doing monsterous things help. And by that note I would like to say [OneInAMil](http://www.oneinamil.com) treated me very well, the way they sell there services doesn't lean as hard on the recruitee either. Independent recruiters, seem to value the relationship between both sides of the aisle in a much more healthy way.
+Of course recruiters who are employed by the company your interviewing for, are exceptions. I also haven't had negative experiences with smaller firms, or independent recruiters. I think there is something to be said about not sitting in an office with 20 other monsters also doing monsterous things, helps. And by that note I would like to say [OneInAMil](http://www.oneinamil.com) treated me very well, the way they sell there services doesn't lean as hard on the recruitee either. Independent recruiters, seem to value the relationship between both sides of the aisle in a much more healthy way.
 
 # What to do
 
