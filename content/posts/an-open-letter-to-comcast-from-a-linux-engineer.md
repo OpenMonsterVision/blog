@@ -13,8 +13,8 @@ What the fuck! My internet has been down for as long as it takes to drive to Flo
 
 # But...A Blog Post Needs More
 
-Fuck Comcast. With the Washington Memorial
+Fuck Comcast. With the Washington Memorial.
 
 # Just an extra thing
 
-We were going to have our cat's blessed by a priest tomorrow...a not common occourence. And yeah no I don't believe. God is like the silliest construct ever, and dumb. And Fuck Pascal's wager...fuck it for me. But my cat Charlie, he deserves the benefit of Pascal's Wager. Fuck you comcast.
+We were going to have our cat's blessed by a priest tomorrow...a not common occourence. And yeah no I don't believe. God is like the silliest construct ever, and dumb. And Fuck Pascal's wager...fuck it for me. But my cat Charley, he deserves the benefit of Pascal's Wager. Fuck you comcast.
