@@ -1,7 +1,7 @@
 ---
 title: "Let's Have an Honest Conversation About Recruiters"
 date: 2017-10-20T11:14:01-05:00
-tags : ["recruiters","tech","tech careers","PurpleSquirrels", "career","interviews"]
+tags : ["recruiters","tech","tech careers","PurpleSquirrels", "career","interviews", "worst customer service"]
 draft: false
 ---
 
