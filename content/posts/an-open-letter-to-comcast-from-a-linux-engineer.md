@@ -1,7 +1,7 @@
 ---
 title: "An Open Letter to Comcast From a Linux Engineer"
 date: 2017-10-20T20:35:06-05:00
-tags : ["comcast","fuck you","worst customer service",""]
+tags : ["comcast","fuck you","worst customer service","xfinity"]
 draft: true
 ---
 # The Who
