@@ -41,11 +41,11 @@ The subject of devOps tools came up. I told Hertzamillion, I wrote [one](https:/
 
 ### File Permissions
 
-Seriously, they came up at this point in the interview. I nailed all this shit except for one thing which I was super confident an the only part I was arrogant about. "When can't you write to a file even if the permissions are 755", "SELINUX AND APP ARMOUR BITCH"...the bitch wasn't there it was implied. I wouldn't want to hurt Ms. Hertzog's feelings.
+Seriously, they came up at this point in the interview. I nailed all this shit except for one thing which I was super confident and the only part I was arrogant about. "When can't you write to a file even if the permissions are 755", "SELINUX AND APP ARMOUR BITCH"...the bitch wasn't there it was implied. I wouldn't want to hurt Ms. Hertzog's feelings.
 
 ### Networking
 
-I fucked up the tcp handshake y'all. I can say y'all, I'm drunk writing this and I'm from the south. Dirty Dirty, y'all. Also, I want to mention, I was East Coast and the only available West Coast interview was after hours there time, so it was like late as shit at night. But you know what I got right, amount of hosts on /22 subnet. I did math...after drinking time in the South. 1022 Y'ALL.
+I fucked up the tcp handshake y'all. I can say y'all, I'm drunk writing this and I'm from the south. Dirty Dirty, y'all. Also, I want to mention, I was East Coast and the only available West Coast interview was after hours their time, so it was like late as shit at night. But you know what I got right, amount of hosts on /22 subnet. I did math...after drinking time in the South. 1022 Y'ALL.
 
 # The Conclusion
 
