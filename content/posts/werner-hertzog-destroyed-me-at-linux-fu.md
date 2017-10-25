@@ -41,7 +41,7 @@ The subject of devOps tools came up. I told Hertzamillion, I wrote [one](https:/
 
 ### File Permissions
 
-Seriously, they came up at this point in the interview. I nailed all this shit except for one thing which I was super confident an the only part I was arrogant about. "When can't you write to a file even if the permissions are 755", "SELINUX AND APP ARMOUR BITCH"...the bitch wasn't there it was implied. I would want to hurt Ms. Hertzog's feelings.
+Seriously, they came up at this point in the interview. I nailed all this shit except for one thing which I was super confident an the only part I was arrogant about. "When can't you write to a file even if the permissions are 755", "SELINUX AND APP ARMOUR BITCH"...the bitch wasn't there it was implied. I wouldn't want to hurt Ms. Hertzog's feelings.
 
 ### Networking
 
