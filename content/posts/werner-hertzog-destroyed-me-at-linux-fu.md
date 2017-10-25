@@ -19,7 +19,7 @@ An SRE (Site Reliabily Engineer / Linux  ) role.
 # The How
 
 ## Questions
-        You may or may not know this, but it's taboo to share interview questions. And I'm not, but not because of that. This interview had very few actual questions. It was more like how does this part of linux work. Keep going. No...Keep going.
+You may or may not know this, but it's taboo to share interview questions. And I'm not, but not because of that. This interview had very few actual questions. It was more like how does this part of linux work. Keep going. No...Keep going.
 
 ## The Experience
 
