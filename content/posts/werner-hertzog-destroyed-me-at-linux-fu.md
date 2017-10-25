@@ -34,7 +34,7 @@ I think we started on "Explain the Linux Boot Process", but like I was saying th
 
 ### Databases
 `
-"How well do you know Databases?", I laughed. Just giggled like a silly person. "I take it you know them well", "quite the opposite I mumbled." I had been burnt earlier in the week on database questions. But this sort of playful banter made me triple down on my goofball strategy. I can feel you pulling back from me, but goddamn it, when all you are is a nail, everything's a hammer. I talked about clusters, and replication but I was not as knowledgable as the tounge mislead, and the darkness enclosed over the rest of my head.
+"How well do you know Databases?", I laughed. Just giggled like a silly person. "I take it you know them well", "quite the opposite I mumbled." I had been burnt earlier in the week on database questions. But this sort of playful banter made me triple down on my goofball strategy. I can feel you pulling back from me, but goddamn it, when all you are is a nail, everything's a hammer. I talked about clusters, and replication but I was not as knowledgable as the tongue mislead, and the darkness enclosed over the rest of my head.
 
 ### DevOps
 The subject of devOps tools came up. I told Hertzamillion, I wrote [one](https://github.com/bsdpunk/trash) so I didn't know any puppet, chef or ansible. Yeah I know that's a shit answer, fuck you too. I get it though I need to know one. See below on my plan of action. Wernz0r explained to me that in the future if you don't know one, you can't get a job. Thanks, I got it, I'm on it. Quit it. SEE BELOW. I'M NOT DUMB YOU GUYS.
