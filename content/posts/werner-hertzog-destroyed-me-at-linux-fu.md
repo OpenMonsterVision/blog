@@ -51,7 +51,7 @@ I fucked up the tcp handshake y'all. I can say y'all, I'm drunk writing this and
 
 Mr. Lady W.H. left me with this parting comment "I had fun talking to you", I really wanted to say "I'm glad someone did", but I opted for "I'm glad you did." The best interviews are the ones where you learn more than you should have.
 
-That's a lie, that's tottally a lie.
+That's a lie, that's totally a lie.
 
 # The Who Again
 
