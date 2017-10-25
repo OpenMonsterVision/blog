@@ -6,10 +6,19 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2017 11:14:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 23:14:28 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Werner Hertzog Destroyed Me at Linux Fu - Best Job Interview Ever</title>
+      <link>https://openmonstervision.github.io/blog/posts/werner-hertzog-destroyed-me-at-linux-fu/</link>
+      <pubDate>Tue, 24 Oct 2017 23:14:28 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/werner-hertzog-destroyed-me-at-linux-fu/</guid>
+      <description>The Who I am @bsdpunk and I think I am good at things, particularly interviews and linux. I fancy myself a pretty good interviewer. I&amp;rsquo;m a goofball&amp;hellip;like cringe worthy goofy. I usually use this to my advantage in an interview. I do my goofy laugh, at the start and when I get something wrong, I say some weird dad joke or something, and then I&amp;rsquo;m determined non-threatening, which I am.</description>
+    </item>
     
     <item>
       <title>Let&#39;s Have an Honest Conversation About Recruiters</title>
@@ -56,7 +65,7 @@ The Why Recently I have become destitute so I have taken to using the skills I h
       <pubDate>Wed, 06 Sep 2017 15:56:22 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/about/</guid>
-      <description> JavaScript Developer with Design Background @trozdol and Old school linux admin,@bsdpunk word vomit on a blog. A poor attempt at tech humor.
+      <description> JavaScript Developer with Design Background @trozdol and Old school linux admin,@bsdpunk word vomit on a blog. A poor attempt at tech humor. Open MonsterVision itself is a github account for people who want to learn more about programming, and are old enough to remember Joe Bob Briggs&amp;rsquo; MonsterVision.
  </description>
     </item>
     
