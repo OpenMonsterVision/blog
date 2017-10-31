@@ -36,7 +36,7 @@ No one else was, taking orders, from upwork, fiverr, peopleperhour, or guru.com.
 
 ## So how did you fix it
 
-I built a custom parser in Node.js cause you know, the customer deserves his data, and cause I can roll it into a bigger project later.
+I built a custom parser in Node.js cause you know, the customer deserves his data, and cause I can roll it into a bigger project later. OK I lied...[@trozdol](http://twitter.com/trozdol) told me to, he told me to goddamn #adult.
 
 Example Code from that monstrosity:
 
