@@ -1,0 +1,197 @@
+    <!DOCTYPE html>
+<html lang="en-us">
+	<head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106153462-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106153462-1');
+</script>
+            <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		
+		<meta name="generator" content="Hugo 0.29" />
+		<title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing &middot; Open Monster Vision</title>
+		<link rel="shortcut icon" href="https://openmonstervision.github.io/blog/images/favicon.ico">
+		<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/style.css">
+		<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/monosocialiconsfont.css">
+		
+
+		
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='https://openmonstervision.github.io/blog/'> <span class="arrow">←</span>Home</a>
+	
+	<a href='https://openmonstervision.github.io/blog/post'>archive</a>
+	<a href='https://openmonstervision.github.io/blog/tags'>Tags</a>
+	<a href='https://openmonstervision.github.io/blog/about'>About</a>
+
+	
+
+	
+</nav>
+
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>
+                        How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing
+                    </h1>
+                    <h2 class="headline">
+                    Oct 30, 2017 14:37
+                    · 962 words
+                    · 5 minutes read
+                      <span class="tags">
+                      
+                      
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/bigquery">BigQuery</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/data">data</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/databases">databases</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/awk">awk</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/csv">csv</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/json">JSON</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/sed">sed</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/grep">grep</a>
+                          
+                              <a href="https://openmonstervision.github.io/blog/tags/bigdata">bigdata</a>
+                          
+                      
+                      
+                      </span>
+                    </h2>
+                </header>
+                
+                <section id="post-body">
+                    
+
+<h1 id="the-wrong-way">The Wrong Way</h1>
+
+<h2 id="worse-is-better">Worse Is Better</h2>
+
+<p>As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly <a href="https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/">simple data conversion</a> jobs from various freelancing sites and customers. So of course, <a href="https://www.jwz.org/doc/worse-is-better.html">worse is better</a> is my go to philosophy. Well this dug &lsquo;ol <a href="http://twitter.com/bsdpunk">@bsdpunk</a> into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery. The couple of three JSON files he gave me combined so easily, mostly using someone elses <a href="https://www.npmjs.com/package/json2csv">node module</a>. So I just thought I could get away with a few bash loops, one for converting one for combining, along with a couple lines of sed. No problem, easy peasy lemon squeezey. When he came back and said the price was a little steep, I lowered it because this wasn&rsquo;t going to take very long and what&rsquo;s 20 bucks, I mean really.</p>
+
+<h1 id="humble-bash-begennings">Humble Bash Begennings</h1>
+
+<p>It looked something like this:</p>
+
+<pre><code class="language-bash">for i in $(find . -name *.json); do cat $i | json2csv -F &gt;&gt; all.csv &amp;&amp; echo $i; done
+cat all.csv | sed '/^\&quot;header/d' &gt; noheader.csv
+cat */noheader.csv &gt;&gt; header.csv
+</code></pre>
+
+<h2 id="sophisticated-bash">Sophisticated Bash</h2>
+
+<p>When I got the rest of the data I was floored. There was so much data. Over 70 gigs. Because of the amount of the data, I knew pretty much instantly this wouldn&rsquo;t work. It was going to be too slow. So, I started parallelizing the bash and running some of the commands individually, or a few in foor loop with some single ampersands, instead of in a script. If I knew what I was doing I would have done it more like <a href="http://codehackit.blogspot.be/2013/08/divide-and-conquer-with-bash-and-friends.html">this</a>. But I was in a hurry, and thought this was a good solution.</p>
+
+<h2 id="of-course-it-failed">Of Course It Failed</h2>
+
+<p>The final 53 gig CSV failed. I mean it existed, but it was broke. If you know anything about JSON, you know why. The Objects and how they were populated changed. Of course it did, that&rsquo;s how JSON works. I didn&rsquo;t forsee it because the two files I tested on had the same structure&hellip;yeah I know, sample size. Also dumb, I know.</p>
+
+<h2 id="but-why-why-didn-t-you-just-cancel-the-order">But Why, Why Didn&rsquo;t You Just Cancel the Order</h2>
+
+<p>No one else was, taking orders, from upwork, fiverr, peopleperhour, or guru.com. I even tried to cancel it, but my client suggested just going through with it. And I would have felt terrible cancelling, I hate calling it quits. Especially if someone was relying on me.</p>
+
+<h2 id="so-how-did-you-fix-it">So how did you fix it</h2>
+
+<p>I built a custom parser in Node.js cause you know, the customer deserves his data, and cause I can roll it into a bigger project later.</p>
+
+<p>Example Code from that monstrosity:</p>
+
+<pre><code class="language-javascript">
+var username                      = json[i].user.username || '';
+var user_profile_picture          = json[i].user.profile_picture || '';
+var user_id                       = json[i].user.id || '';
+</code></pre>
+
+<p>You know, like a goddamn JSON parser. For some reason I decided it was time to do, <a href="https://yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html">The Right Thing</a>. Of course I am aware these philosophies don&rsquo;t exactly mimic my problem. But if you don&rsquo;t know about them, you need to, and if you do, it&rsquo;s just a silly blog post from a silly person.</p>
+
+<h1 id="javascript-crashed">Javascript Crashed</h1>
+
+<p>I knew I should I have used python&hellip;fuck. Something&rsquo;s funny though, the file it generated was 8 gigs, it should only be around 2. What the fuck.</p>
+
+<h2 id="something-really-dumb">Something Really Dumb</h2>
+
+<p>Hey you guys, I used the same iterator in two for loops. I am dumb, I am Really Really, Dumb.</p>
+
+<h2 id="something-less-dumb">Something Less Dumb</h2>
+
+<p>It still suffered from a crash. Over used the heap, and other sayings. At first I tryed forcing garbage collection, using &ndash;expose-gc flag on node, that made it incrediblly slow and still crash. Next I tried just increasing the max memory node could use&hellip;bob&rsquo;s your uncle. Now it works like a charm. That flag is &ndash;max_old_space_size=7000. That&rsquo;s 7000 Megabytes. Go big or go home.</p>
+
+<h1 id="20-bucks-is-a-lot">20 Bucks Is A Lot</h1>
+
+<p>At this point on this project I&rsquo;m working for about $3.00 an hour, and by the end of it, it will probably be in the two digit cents range, as I haven&rsquo;t quite finished. Still have some details to work out.</p>
+
+<h2 id="wait-a-minute-you-act-like-a-badass-this-sounds-like-you-re-barely-scraping-by">Wait A Minute You Act Like A Badass, This Sounds Like You&rsquo;re Barely Scraping By</h2>
+
+<p>Yeah I eat hot dogs every day. I&rsquo;m still a badass I was offered quite the lucrative gig in The Valley this week, but it meant leaving my girlfriend and cats&hellip;So suck it. I be out here every day failing, I don&rsquo;t give a shit. Come at me bro. Other masculine but meaningless sayings.</p>
+
+<h1 id="on-to-bigger-and-better-things">On to Bigger and Better Things</h1>
+
+<p>I am beginning a larger all encompassing data project, that will slurp data and puke awesome. If you&rsquo;re familiar with me, you know I&rsquo;ve already built something like this before, but that platform was more about using data to create predictive models, and it&rsquo;s time I return to the much more humbler, but also much more viable data cleaning and conversion system.</p>
+
+<h1 id="whose-fault-was-it">Whose fault was it</h1>
+
+<p>Read some <a href="https://www.amazon.com/gp/product/B00IJ0TWHK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=bsdpblog-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B00IJ0TWHK&amp;linkId=35eefd37871cbb47a02b0650e3d02812">Camus</a> sometime simpleton, it&rsquo;s nobody&rsquo;s fault. The world is absurd and the search for meaning ridiculous. Err&hellip; I mean I couldn&rsquo;t have seen ahead giving the data I was giving. At the beginning of the project with the amount of data, and type of data I was given I foresaw possible issues, but as the eternal optimist, I tredged along.</p>
+
+<h1 id="the-who">The Who</h1>
+
+<p>My name is <a href="http://twitter.com/bsdpunk">@bsdpunk</a>, and I work in the data mines for a living. For apparently very cheap, so you should tottally hit me up. Also I&rsquo;m a socialist who lives with a <a href="https://www.instagram.com/p/Ba7bXmwjS0j/?taken-by=bsdpunk">&ldquo;healthy&rdquo; blind cat</a>, and I feel like that joke, writes itself. Also by that <a href="https://www.amazon.com/gp/product/0679720219/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=bsdpblog-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=0679720219&amp;linkId=49f9264674854c7516a7be2a0b834f7d">Camus</a> book, you uncultured swine.</p>
+
+                </section>
+            </article>
+
+            
+
+            
+
+            
+
+            <footer id="footer">
+    
+    <p class="small">
+    
+       © Copyright 2017 <i class="fa fa-heart" aria-hidden="true"></i> 
+    
+    </p>
+    <p class="small">
+        Powered by <a href="http://www.gohugo.io/">Hugo</a> Theme By <a href="https://github.com/nodejh/hugo-theme-cactus-plus">nodejh</a>
+    </p>
+</footer>
+
+        </section>
+
+        <script src="https://openmonstervision.github.io/blog/js/jquery-2.2.4.min.js"></script>
+<script src="https://openmonstervision.github.io/blog/js/main.js"></script>
+<script src="https://openmonstervision.github.io/blog/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+    </body>
+</html>

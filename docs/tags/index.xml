@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 04:53:45 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 14:37:20 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Awk</title>
       <link>https://openmonstervision.github.io/blog/tags/awk/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/awk/</guid>
       <description></description>
@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>Bigdata</title>
+      <link>https://openmonstervision.github.io/blog/tags/bigdata/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bigquery</title>
+      <link>https://openmonstervision.github.io/blog/tags/bigquery/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/bigquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Career</title>
       <link>https://openmonstervision.github.io/blog/tags/career/</link>
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
@@ -41,7 +59,7 @@
     <item>
       <title>Csv</title>
       <link>https://openmonstervision.github.io/blog/tags/csv/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/csv/</guid>
       <description></description>
@@ -57,6 +75,24 @@
     </item>
     
     <item>
+      <title>Data</title>
+      <link>https://openmonstervision.github.io/blog/tags/data/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://openmonstervision.github.io/blog/tags/databases/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Draftkings</title>
       <link>https://openmonstervision.github.io/blog/tags/draftkings/</link>
       <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
@@ -68,7 +104,7 @@
     <item>
       <title>Grep</title>
       <link>https://openmonstervision.github.io/blog/tags/grep/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/grep/</guid>
       <description></description>
@@ -80,6 +116,15 @@
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://openmonstervision.github.io/blog/tags/json/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/json/</guid>
       <description></description>
     </item>
     
@@ -185,7 +230,7 @@
     <item>
       <title>Sed</title>
       <link>https://openmonstervision.github.io/blog/tags/sed/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/sed/</guid>
       <description></description>
