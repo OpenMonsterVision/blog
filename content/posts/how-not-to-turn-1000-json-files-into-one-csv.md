@@ -22,7 +22,7 @@ cat */noheader.csv >> header.csv
 
 ## Sophisticated Bash 
 
-When I got the rest of the data I was floored. There was so much data. Over 70 gigs. Because of the amount of the data, I knew pretty much instantly this wouldn't work. It was going to be too slow. So, I started parallelizing the bash and running some of the commands individually, or a few in foor loop with some single ampersands, instead of in a script. If I knew what I was doing I would have done it more like [this](http://codehackit.blogspot.be/2013/08/divide-and-conquer-with-bash-and-friends.html). But I was in a hurry, and thought this was a good solution.
+When I got the rest of the data I was floored. There was so much data. Over 70 gigs. Because of the amount of the data, I knew pretty much instantly this wouldn't work. It was going to be too slow. So, I started parallelizing the bash and running some of the commands individually, or a few in for loop with some single ampersands, instead of in a script. If I knew what I was doing I would have done it more like [this](http://codehackit.blogspot.be/2013/08/divide-and-conquer-with-bash-and-friends.html). But I was in a hurry, and thought this was a good solution.
 
 ## Of Course It Failed
 
