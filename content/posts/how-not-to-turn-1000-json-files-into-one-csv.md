@@ -46,8 +46,12 @@ var username                      = json[i].user.username || '';
 var user_profile_picture          = json[i].user.profile_picture || '';
 var user_id                       = json[i].user.id || '';
 ```
+* Of course in the full thing, there's more than 100 lines of code, not counting the file loader...so yeah.
+
 
 You know, like a goddamn JSON parser. For some reason I decided it was time to do, [The Right Thing](https://yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html). Of course I am aware these philosophies don't exactly mimic my problem. But if you don't know about them, you need to, and if you do, it's just a silly blog post from a silly person.
+
+
 
 # Javascript Crashed
 
