@@ -79,7 +79,7 @@ I am beginning a larger all encompassing data project, that will slurp data and 
 
 # Whose fault was it
 
-Read some [Camus](https://www.amazon.com/gp/product/B00IJ0TWHK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IJ0TWHK&linkId=35eefd37871cbb47a02b0650e3d02812) sometime simpleton, it's nobody's fault. The world is absurd and the search for meaning ridiculous. Err... I mean I couldn't have seen ahead giving the data I was giving. At the beginning of the project with the amount of data, and type of data I was given I foresaw possible issues, but as the eternal optimist, I tredged along.
+Read some [Camus](https://www.amazon.com/gp/product/B00IJ0TWHK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IJ0TWHK&linkId=35eefd37871cbb47a02b0650e3d02812) sometime simpleton, it's nobody's fault. The world is absurd and the search for meaning ridiculous. Err... I mean I couldn't have seen ahead given the data I was giving. At the beginning of the project with the amount of data, and type of data I was given I foresaw possible issues, but as the eternal optimist, I tredged along.
 
 # The Who
 
