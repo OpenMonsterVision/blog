@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grubby Little Hacker on Open Monster Vision</title>
+    <link>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</link>
+    <description>Recent content in Grubby Little Hacker on Open Monster Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2017 02:12:01 -0600</lastBuildDate>
+    
+	<atom:link href="https://openmonstervision.github.io/blog/tags/grubby-little-hacker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grubby Little Hacker</title>
+      <link>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</guid>
+      <description>All I have ever wanted and strived to be is, a grubby little hacker. Those three words written indelibly in my mind:
+grubby little hacker
+Always lower case. In fiction they were smart, they were generally physically weaker than their antagonists, but clever won the day. I became enamored with the idea after the advent of getting my first computer, an IBM PS/1 486 25 Mhz, Both types of floppy drives.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
 ---
 title: "Grubby Little Hacker"
 date: 2017-12-09T02:12:01-06:00
-draft: true
+draft: false
+tags : ["Grubby Little Hacker","grubby","little","hacker", "computers", "history", "hacking","glh", "computer history"]
 ---
 
 All I have ever wanted and strived to be is, a grubby little hacker. Those three words written indelibly in my mind:
