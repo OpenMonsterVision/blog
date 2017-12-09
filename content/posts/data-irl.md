@@ -2,7 +2,7 @@
 title: "How to Create Data IRL Maps"
 date: 2017-12-08T17:45:48-06:00
 tags : ["R","Maps","Me","bsdpunk","Adult","dataset","datasets","Rlang","Code","Graphs"]
-draft: true
+draft: false
 ---
 
 # I used to live in Philadelphia
