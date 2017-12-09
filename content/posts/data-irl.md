@@ -7,7 +7,7 @@ draft: false
 
 # I used to live in Philadelphia
 
-[Philly Crime](https://i.imgur.com/dRefCUE.png "Philly Crime")
+![Philly Crime](https://i.imgur.com/dRefCUE.png "Philly Crime")
 
 I assure I commited neither. I got the dataset [here](https://www.kaggle.com/mchirico/philadelphiacrimedata "Kaggle Dataset of Philly Crime"). 
 
@@ -74,7 +74,7 @@ The code is probably better highlighted on [GitHub](https://github.com/OpenMonst
 
 # I currently live in Nashville
 
-[Adult Business Map](https://i.imgur.com/6k27QDB.png "Nashville Registered Adult Business")
+![Adult Business Map](https://i.imgur.com/6k27QDB.png "Nashville Registered Adult Business")
 
 I've never been to any of these. The dataset can be found [here](https://data.nashville.gov/Licenses-Permits/Davidson-County-Locations-Sexually-Oriented-Permit/g97f-x87i).
 
