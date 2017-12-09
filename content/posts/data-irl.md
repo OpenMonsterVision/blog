@@ -14,7 +14,7 @@ I assure I commited neither. I got the dataset [here](https://www.kaggle.com/mch
 
 ## The Code
 
-``` r
+```r
 library("ggplot2")
 library("ggmap")
 
@@ -83,7 +83,7 @@ I've never been to any of these. The dataset can be found [here](https://data.na
 
 First I got a google maps api key, and I saved it to "~/.gmaps". Then I wrote this Script:
 
-``` bash
+```bash
 #!/bin/bash - 
 #===============================================================================
 #
@@ -124,7 +124,7 @@ curl -sKL "https://maps.googleapis.com/maps/api/geocode/json?address=$APPEND&key
 
 Now It's just like the other one. Just as simple, and I tried to comment the hell out of my code.
 
-``` r
+```r
 library("ggplot2")
 library("ggmap")
 
