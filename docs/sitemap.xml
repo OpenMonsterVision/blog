@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/posts/data-irl/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</loc>
     <lastmod>2017-10-30T14:37:20-05:00</lastmod>
   </url>
@@ -38,6 +43,12 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/adult/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
     <lastmod>2017-10-30T14:37:20-05:00</lastmod>
     <priority>0</priority>
@@ -62,6 +73,12 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/bsdpunk/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/career/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
     <priority>0</priority>
@@ -69,6 +86,12 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/code/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,8 +120,26 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/dataset/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/datasets/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/draftkings/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/graphs/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,6 +174,18 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/maps/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/me/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/nfl/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
     <priority>0</priority>
@@ -140,7 +193,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/</loc>
-    <lastmod>2017-10-30T14:37:20-05:00</lastmod>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,7 +205,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/posts/</loc>
-    <lastmod>2017-10-30T14:37:20-05:00</lastmod>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,7 +223,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/r/</loc>
-    <lastmod>2017-10-19T08:04:14-05:00</lastmod>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +241,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/rlang/</loc>
-    <lastmod>2017-10-19T08:04:14-05:00</lastmod>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,7 +271,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/</loc>
-    <lastmod>2017-10-30T14:37:20-05:00</lastmod>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on Open Monster Vision</title>
+    <link>https://openmonstervision.github.io/blog/tags/datasets/</link>
+    <description>Recent content in Datasets on Open Monster Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2017 17:45:48 -0600</lastBuildDate>
+    
+	<atom:link href="https://openmonstervision.github.io/blog/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Create Data IRL Maps</title>
+      <link>https://openmonstervision.github.io/blog/posts/data-irl/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/data-irl/</guid>
+      <description>I used to live in Philadelphia Philly Crime
+I assure I commited neither. I got the dataset here.
+The Code library(&amp;quot;ggplot2&amp;quot;) library(&amp;quot;ggmap&amp;quot;) #Get Philadelphia Crime Data, this takes a while philCrimeData &amp;lt;- read.csv(&amp;quot;~/Downloads/crime.csv&amp;quot;,stringsAsFactors = FALSE) # Get Philly Map, Zoom in slightly philCrimeMap &amp;lt;- get_map(location = &amp;quot;philadelphia&amp;quot;,maptype = &amp;quot;roadmap&amp;quot;, zoom = 12) #Create Map philCrimeMapGG &amp;lt;- ggmap(philCrimeMap) #Create My Address me &amp;lt;- data.frame( Lon = c(-75.112021), Lat = c(39.991058), Crime = &amp;quot;Me&amp;quot;, stringsAsFactors = FALSE ) #Data Needs to be arranged so that the legend prints properly #Create rapes table rapes &amp;lt;- philCrimeData[which( philCrimeData$Text_General_Code == &#39;Rape&#39; ),] rapes &amp;lt;- rapes[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col rapes$Crime &amp;lt;- &amp;quot;Rapes&amp;quot; #Create Murders Table murders &amp;lt;- philCrimeData[grep(pattern = &amp;quot;Homicide&amp;quot;,philCrimeData$Text_General_Code),] murders &amp;lt;- murders[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col murders$Crime &amp;lt;- &amp;quot;Homicides&amp;quot; #Bind Tables Crimes &amp;lt;- rbind(rapes, murders) #Add Dots pngf &amp;lt;- philCrimeMapGG + #Make Crime dots, There&#39;s a lot So make them Transparent geom_point(show.</description>
+    </item>
+    
+  </channel>
+</rss>
