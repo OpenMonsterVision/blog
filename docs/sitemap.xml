@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/content/posts/recruiter-email/</loc>
+    <lastmod>2018-03-23T00:49:29-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
   </url>
@@ -109,6 +114,12 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/computers/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/content/</loc>
+    <lastmod>2018-03-23T00:49:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,7 +268,7 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/</loc>
-    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
+    <lastmod>2018-03-23T00:49:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
