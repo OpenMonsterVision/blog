@@ -55,7 +55,7 @@ Self-starter with proven track record
 Excellent communication skills (we use TeamWeek for scheduling and Slack)
 < Bullshit Bullet Point, cool
 
-## Really, which PHP I was expecting CVS
+## Really, with PHP I was expecting CVS
 Version Control (Git) experience is a must.
 < Of course
 
