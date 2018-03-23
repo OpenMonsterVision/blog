@@ -65,7 +65,7 @@ Am I hacker, did I become what I wanted? It doesn't really matter what anyone sa
 You know what, I don't think I've ever written an exploit...I think I'll go do that.
 
 # Who am I ?
-I am [@bsdpunk](http://twitter.com/bsdpunk) and you should buy the best [book I ever read on computer history.](https://www.amazon.com/gp/product/0071358927/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071358927&linkId=5ed208babb30852af389878d7e0e41a5 "A goddamn Ad for Fire in the Valley")
+I am [@bsdpunk](http://twitter.com/bsdpunk "bsdpunk") and you should buy the best [book I ever read on computer history.](https://www.amazon.com/gp/product/0071358927/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=bsdpblog-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071358927&linkId=5ed208babb30852af389878d7e0e41a5 "A goddamn Ad for Fire in the Valley")
 
 ## Amendments
 
