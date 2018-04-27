@@ -6,10 +6,20 @@
     <description>Recent content in Csv on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2017 14:37:20 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 04:53:45 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/csv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Turning the D and D Monster Manual into JSON</title>
+      <link>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
+      <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
+GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
+    </item>
     
     <item>
       <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
@@ -28,16 +38,6 @@
       <guid>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</guid>
       <description>The Who I&amp;rsquo;m your friendly neighborhood unix man. And I have a problem. I love regex. Now I have two problems.
 The Why Recently I have become destitute so I have taken to using the skills I have to provide for my poor sick family. It&amp;rsquo;s mostly disabled cats. And when all you have is hammer, everything gets nailed. So I thought, you know what people probably don&amp;rsquo;t automate enough of&amp;hellip;Data Entry.</description>
-    </item>
-    
-    <item>
-      <title>Turning the D and D Monster Manual into JSON</title>
-      <link>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
-      <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
-GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
     </item>
     
   </channel>

@@ -1,8 +1,8 @@
 ---
 title: "Turning the D and D Monster Manual into JSON"
-date: 2017-10-10T04:53:45-05:00
+date: 2018-04-10T04:53:45-05:00
 tags : [ "json","dnd","csv","grep","awk","linux","bash","sed","pdf","regex"]
-draft: false
+draft: true
 ---
 
 # The What
