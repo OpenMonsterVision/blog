@@ -21,113 +21,12 @@
     </item>
     
     <item>
-      <title>Turning the D and D Monster Manual into JSON</title>
-      <link>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
-      <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
-GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
-    </item>
-    
-    <item>
-      <title>PHP Recruiting Email</title>
-      <link>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</guid>
-      <description>An email from a recruiter Dustin,
-Always Are you ready to take the next steps in your career? &amp;lt; YES
-But No one wants to do php I’ve got a client looking for a PHP Developer (Laravel, Javascript) in Nashville, TN. The full job description is below. &amp;lt; So steps backwards?
-Indeed If you are a PHP Developer with experience, please read on! What You Will Be Doing &amp;lt; I am and this makes me sad.</description>
-    </item>
-    
-    <item>
       <title>Recruiter Email</title>
       <link>https://openmonstervision.github.io/blog/content/posts/recruiter-email/</link>
       <pubDate>Fri, 23 Mar 2018 00:49:29 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/content/posts/recruiter-email/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Grubby Little Hacker</title>
-      <link>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</guid>
-      <description>All I have ever wanted and strived to be is, a grubby little hacker. Those three words written indelibly in my mind:
-grubby little hacker
-Always lower case. In fiction they were smart, they were generally physically weaker than their antagonists, but clever won the day. I became enamored with the idea after the advent of getting my first computer, an IBM PS/1 486 25 Mhz, Both types of floppy drives.</description>
-    </item>
-    
-    <item>
-      <title>How to Create Data IRL Maps</title>
-      <link>https://openmonstervision.github.io/blog/posts/data-irl/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/data-irl/</guid>
-      <description>I used to live in Philadelphia 
-I assure I commited neither. I got the dataset here.
-The Code library(&amp;quot;ggplot2&amp;quot;) library(&amp;quot;ggmap&amp;quot;) #Get Philadelphia Crime Data, this takes a while philCrimeData &amp;lt;- read.csv(&amp;quot;~/Downloads/crime.csv&amp;quot;,stringsAsFactors = FALSE) # Get Philly Map, Zoom in slightly philCrimeMap &amp;lt;- get_map(location = &amp;quot;philadelphia&amp;quot;,maptype = &amp;quot;roadmap&amp;quot;, zoom = 12) #Create Map philCrimeMapGG &amp;lt;- ggmap(philCrimeMap) #Create My Address me &amp;lt;- data.frame( Lon = c(-75.112021), Lat = c(39.991058), Crime = &amp;quot;Me&amp;quot;, stringsAsFactors = FALSE ) #Data Needs to be arranged so that the legend prints properly #Create rapes table rapes &amp;lt;- philCrimeData[which( philCrimeData$Text_General_Code == &#39;Rape&#39; ),] rapes &amp;lt;- rapes[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col rapes$Crime &amp;lt;- &amp;quot;Rapes&amp;quot; #Create Murders Table murders &amp;lt;- philCrimeData[grep(pattern = &amp;quot;Homicide&amp;quot;,philCrimeData$Text_General_Code),] murders &amp;lt;- murders[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col murders$Crime &amp;lt;- &amp;quot;Homicides&amp;quot; #Bind Tables Crimes &amp;lt;- rbind(rapes, murders) #Add Dots pngf &amp;lt;- philCrimeMapGG + #Make Crime dots, There&#39;s a lot So make them Transparent geom_point(show.</description>
-    </item>
-    
-    <item>
-      <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</guid>
-      <description>The Wrong Way Worse Is Better As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly simple data conversion jobs from various freelancing sites and customers. So of course, worse is better is my go to philosophy. Well this dug &amp;lsquo;ol @bsdpunk into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery.</description>
-    </item>
-    
-    <item>
-      <title>Werner Hertzog Destroyed Me at Linux Fu - Best Job Interview Ever</title>
-      <link>https://openmonstervision.github.io/blog/posts/werner-hertzog-destroyed-me-at-linux-fu/</link>
-      <pubDate>Tue, 24 Oct 2017 23:14:28 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/werner-hertzog-destroyed-me-at-linux-fu/</guid>
-      <description>The Who I am @bsdpunk and I think I am good at things, particularly interviews and linux. I fancy myself a pretty good interviewer. I&amp;rsquo;m a goofball&amp;hellip;like cringe worthy goofy. I usually use this to my advantage in an interview. I do my goofy laugh, at the start and when I get something wrong, I say some weird dad joke or something, and then I&amp;rsquo;m determined non-threatening, which I am.</description>
-    </item>
-    
-    <item>
-      <title>Let&#39;s Have an Honest Conversation About Recruiters</title>
-      <link>https://openmonstervision.github.io/blog/posts/lets-have-an-honest-conversation-about-recruiters/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/lets-have-an-honest-conversation-about-recruiters/</guid>
-      <description>The What I lied, this isn&amp;rsquo;t a goddamned conversation, there&amp;rsquo;s no commenting on this blog. You&amp;rsquo;re going to listen to why the title recruiter is another way of saying &amp;ldquo;demon from the really lame Dante&amp;rsquo;s Inferno level, where you waste time for all eternity&amp;rdquo;. There are exceptions of course, see the section entitled The Exceptions.
-The Why I have been hurt by recruiters, but that&amp;rsquo;s not what makes them such a wonderful target.</description>
-    </item>
-    
-    <item>
-      <title>Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points</title>
-      <link>https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/</guid>
-      <description>The Who I don&amp;rsquo;t know how to tie my shoes, this will come into play later.
-The Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn&amp;rsquo;t remember DraftKings is legal because it&amp;rsquo;s a game of skill. The Code Let&amp;rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady &amp;lt;- read.</description>
-    </item>
-    
-    <item>
-      <title>How to Make Money Using Grep Sed and Awk</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</guid>
-      <description>The Who I&amp;rsquo;m your friendly neighborhood unix man. And I have a problem. I love regex. Now I have two problems.
-The Why Recently I have become destitute so I have taken to using the skills I have to provide for my poor sick family. It&amp;rsquo;s mostly disabled cats. And when all you have is hammer, everything gets nailed. So I thought, you know what people probably don&amp;rsquo;t automate enough of&amp;hellip;Data Entry.</description>
-    </item>
-    
-    <item>
-      <title>How Not to Get a Job With an Elite Tech Company</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-not-to-get-a-job-with-an-elite-tech-company/</link>
-      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-get-a-job-with-an-elite-tech-company/</guid>
-      <description>I am an Expert Let&amp;rsquo;s establish the parameters of what makes me an expert on not getting an elite job with a tech company. I have interviewed for an SRE(Site Reliability Engineer) role, at both Google and facebook, and failed to achieve those positions. Last month I interviewed for an SRE for one of the top 25 most visited sites, and also failed to achieve that position. Why on September 13th I didn&amp;rsquo;t even bother to respond to this Vimeo voice mail I am the Michael Jordan, of not achieving an engineering position with elite Silicon Valley tech companies.</description>
     </item>
     
     <item>
