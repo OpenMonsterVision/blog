@@ -6,10 +6,19 @@
     <description>Recent content in Contents on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Mar 2018 00:49:29 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Apr 2018 17:39:21 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/content/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Turning Dungeons and Dragons Monster Manual PDF Into Json</title>
+      <link>https://openmonstervision.github.io/blog/content/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
+      <pubDate>Fri, 13 Apr 2018 17:39:21 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/content/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recruiter Email</title>
