@@ -1,6 +1,13 @@
 /* Base16 Eighties Colorscheme by Chris Kempson (http://chriskempson.com) */
-
+/* Color Theme Swatches in Hex */
 :root {
+
+--outrun00: #BF1FB5;
+--outrun01: #A52BD9;
+--outrun02: #6C1ED9; 
+--outrun03: #0F0526; 
+--outrun04: #140840; 
+
   --base00: #2d2d2d;
   --base01: #393939;
   --base02: #515151;
@@ -18,7 +25,11 @@
   --base0e: #cc99cc;
   --base0f: #d27b53;
 }
-
+.outrun00 {color: #BF1FB5;color: var(--outrun00); }
+.outrun01 {color: #A52BD9;color: var(--outrun01); }
+.outrun02 {color: #6C1ED9;color: var(--outrun02); }
+.outrun03 {color: #0F0526;color: var(--outrun03); }
+.outrun04 {color: #140840;color: var(--outrun04); }
 .base00 { color: #2d2d2d; color: var(--base00); }
 .base01 { color: #393939; color: var(--base01); }
 .base02 { color: #515151; color: var(--base02); }
@@ -42,8 +53,8 @@
 
 body {
   margin: 0;
-  background-color: #2d2d2d;
-  background-color: var(--base00);
+  background-color: #140840;
+  background-color: var(--outrun04);
   color: #f2f0ec;
   color: var(--base07);
   line-height: 1.5;
@@ -221,8 +232,8 @@ footer a {
 
 .homepage h1.headline {
   font-size: 3em;
-  color: #ffcc66;
-  color: var(--base0a);
+  color: #BF1FB5;
+  color: var(--outrun00);
 }
 
 @media (--breakpoint-md) {
@@ -345,8 +356,8 @@ article.single .meta .val, article.single .meta .val a {
 article.single h1.headline {
   margin-top: 0;
   font-size: 3em;
-  color: #ffcc66;
-  color: var(--base0a);
+  color: #BF1FB5;
+  color: var(--outrun00);
 }
 
 @media (--breakpoint-md) {
@@ -370,11 +381,11 @@ article.single section.body {
 
 /* Highlight Colors */
 
-article.single section.body h1 { color: #6699cc; color: var(--base0d); }
-article.single section.body h2 { color: #99cc99; color: var(--base0b); }
-article.single section.body h3 { color: #f99157; color: var(--base09); }
-article.single section.body h4 { color: #f2777a; color: var(--base08); }
-article.single section.body h5 { color: #515151; color: var(--base02); }
+article.single section.body h1 { color: #A52BD9; color: var(--outrun01); }
+article.single section.body h2 { color: #6C1ED9; color: var(--outrun02); }
+article.single section.body h3 { color: #BF1FB5; color: var(--outrun00); }
+article.single section.body h4 { color: #0F0526; color: var(--outrun03); }
+article.single section.body h5 { color: #140840; color: var(--outrun04); }
 article.single section.body h6 { color: #747369; color: var(--base03); }
 
 article.single section.body a { color: #d27b53; color: var(--base0f); }
