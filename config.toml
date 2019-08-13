@@ -1,13 +1,13 @@
 baseURL       = "https://openmonstervision.github.io/blog/"
-languageCode  = "en-us"
 title         = "Open Monster Vision"
-theme         = "hugo-theme-cactus-plus"
+languageCode  = "en-us"
+theme         = "outrun"
 contentDir    = "content"
 layoutDir     = "layouts"
 publishDir    = "docs"
-buildDrafts   = true
+buildDrafts   = false
 canonifyURLs  = true
-archetypeDir  = "archetypes"
+pygmentsuseclasses = true
 
 [taxonomies]
     category = "categories"
@@ -15,5 +15,5 @@ archetypeDir  = "archetypes"
 
 [params]
     subtitle = "Coding and Stuff"
-    author   = "BSDPunk and Trozdol"
+    author   = "BSDPunk"
     archive  = "archive"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sed on Open Monster Vision</title>
+    <title>sed on Open Monster Vision</title>
     <link>https://openmonstervision.github.io/blog/tags/sed/</link>
-    <description>Recent content in Sed on Open Monster Vision</description>
+    <description>Recent content in sed on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Apr 2018 04:53:45 -0500</lastBuildDate>
@@ -19,15 +19,6 @@
       <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
       <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
 GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
-    </item>
-    
-    <item>
-      <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</guid>
-      <description>The Wrong Way Worse Is Better As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly simple data conversion jobs from various freelancing sites and customers. So of course, worse is better is my go to philosophy. Well this dug &amp;lsquo;ol @bsdpunk into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery.</description>
     </item>
     
     <item>

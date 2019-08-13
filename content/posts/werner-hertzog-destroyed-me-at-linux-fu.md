@@ -1,7 +1,7 @@
 ---
 title: "Werner Hertzog Destroyed Me at Linux Fu - Best Job Interview Ever"
 date: 2017-10-24T23:14:28-05:00
-draft: true
+draft: false
 ---
 
 # The Who

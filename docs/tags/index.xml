@@ -6,22 +6,13 @@
     <description>Recent content in Tags on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2017 17:45:48 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 04:53:45 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Adult</title>
-      <link>https://openmonstervision.github.io/blog/tags/adult/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/adult/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Awk</title>
+      <title>awk</title>
       <link>https://openmonstervision.github.io/blog/tags/awk/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -30,7 +21,7 @@
     </item>
     
     <item>
-      <title>Bash</title>
+      <title>bash</title>
       <link>https://openmonstervision.github.io/blog/tags/bash/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -39,70 +30,7 @@
     </item>
     
     <item>
-      <title>Bigdata</title>
-      <link>https://openmonstervision.github.io/blog/tags/bigdata/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bigquery</title>
-      <link>https://openmonstervision.github.io/blog/tags/bigquery/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/bigquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bsdpunk</title>
-      <link>https://openmonstervision.github.io/blog/tags/bsdpunk/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/bsdpunk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>https://openmonstervision.github.io/blog/tags/career/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://openmonstervision.github.io/blog/tags/code/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer History</title>
-      <link>https://openmonstervision.github.io/blog/tags/computer-history/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/computer-history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computers</title>
-      <link>https://openmonstervision.github.io/blog/tags/computers/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/computers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Csv</title>
+      <title>csv</title>
       <link>https://openmonstervision.github.io/blog/tags/csv/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -111,52 +39,7 @@
     </item>
     
     <item>
-      <title>Daily Fantasy</title>
-      <link>https://openmonstervision.github.io/blog/tags/daily-fantasy/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/daily-fantasy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://openmonstervision.github.io/blog/tags/data/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Databases</title>
-      <link>https://openmonstervision.github.io/blog/tags/databases/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/databases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dataset</title>
-      <link>https://openmonstervision.github.io/blog/tags/dataset/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datasets</title>
-      <link>https://openmonstervision.github.io/blog/tags/datasets/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/datasets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dnd</title>
+      <title>dnd</title>
       <link>https://openmonstervision.github.io/blog/tags/dnd/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -165,43 +48,7 @@
     </item>
     
     <item>
-      <title>Draftkings</title>
-      <link>https://openmonstervision.github.io/blog/tags/draftkings/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/draftkings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Email</title>
-      <link>https://openmonstervision.github.io/blog/tags/email/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/email/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glh</title>
-      <link>https://openmonstervision.github.io/blog/tags/glh/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/glh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphs</title>
-      <link>https://openmonstervision.github.io/blog/tags/graphs/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/graphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grep</title>
+      <title>grep</title>
       <link>https://openmonstervision.github.io/blog/tags/grep/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -210,11 +57,47 @@
     </item>
     
     <item>
-      <title>Grubby</title>
-      <link>https://openmonstervision.github.io/blog/tags/grubby/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      <title>json</title>
+      <link>https://openmonstervision.github.io/blog/tags/json/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/grubby/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://openmonstervision.github.io/blog/tags/linux/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pdf</title>
+      <link>https://openmonstervision.github.io/blog/tags/pdf/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regex</title>
+      <link>https://openmonstervision.github.io/blog/tags/regex/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sed</title>
+      <link>https://openmonstervision.github.io/blog/tags/sed/</link>
+      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/sed/</guid>
       <description></description>
     </item>
     
@@ -228,7 +111,43 @@
     </item>
     
     <item>
-      <title>Hacker</title>
+      <title>computer history</title>
+      <link>https://openmonstervision.github.io/blog/tags/computer-history/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/computer-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computers</title>
+      <link>https://openmonstervision.github.io/blog/tags/computers/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glh</title>
+      <link>https://openmonstervision.github.io/blog/tags/glh/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/glh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grubby</title>
+      <link>https://openmonstervision.github.io/blog/tags/grubby/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/grubby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hacker</title>
       <link>https://openmonstervision.github.io/blog/tags/hacker/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
       
@@ -237,7 +156,7 @@
     </item>
     
     <item>
-      <title>Hacking</title>
+      <title>hacking</title>
       <link>https://openmonstervision.github.io/blog/tags/hacking/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
       
@@ -246,7 +165,7 @@
     </item>
     
     <item>
-      <title>History</title>
+      <title>history</title>
       <link>https://openmonstervision.github.io/blog/tags/history/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
       
@@ -255,34 +174,7 @@
     </item>
     
     <item>
-      <title>Interviews</title>
-      <link>https://openmonstervision.github.io/blog/tags/interviews/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>https://openmonstervision.github.io/blog/tags/json/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://openmonstervision.github.io/blog/tags/linux/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Little</title>
+      <title>little</title>
       <link>https://openmonstervision.github.io/blog/tags/little/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
       
@@ -291,11 +183,29 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://openmonstervision.github.io/blog/tags/machine-learning/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      <title>Adult</title>
+      <link>https://openmonstervision.github.io/blog/tags/adult/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/machine-learning/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/adult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://openmonstervision.github.io/blog/tags/code/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphs</title>
+      <link>https://openmonstervision.github.io/blog/tags/graphs/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/graphs/</guid>
       <description></description>
     </item>
     
@@ -318,92 +228,11 @@
     </item>
     
     <item>
-      <title>Nfl</title>
-      <link>https://openmonstervision.github.io/blog/tags/nfl/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/nfl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pdf</title>
-      <link>https://openmonstervision.github.io/blog/tags/pdf/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/pdf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Php</title>
-      <link>https://openmonstervision.github.io/blog/tags/php/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predictive Math</title>
-      <link>https://openmonstervision.github.io/blog/tags/predictive-math/</link>
-      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/predictive-math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Purplesquirrels</title>
-      <link>https://openmonstervision.github.io/blog/tags/purplesquirrels/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/purplesquirrels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>https://openmonstervision.github.io/blog/tags/r/</link>
       <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recruiter</title>
-      <link>https://openmonstervision.github.io/blog/tags/recruiter/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/recruiter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recruiters</title>
-      <link>https://openmonstervision.github.io/blog/tags/recruiters/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/recruiters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recruiting</title>
-      <link>https://openmonstervision.github.io/blog/tags/recruiting/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/recruiting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regex</title>
-      <link>https://openmonstervision.github.io/blog/tags/regex/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/regex/</guid>
       <description></description>
     </item>
     
@@ -417,43 +246,70 @@
     </item>
     
     <item>
-      <title>Satire</title>
-      <link>https://openmonstervision.github.io/blog/tags/satire/</link>
-      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
+      <title>bsdpunk</title>
+      <link>https://openmonstervision.github.io/blog/tags/bsdpunk/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/satire/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/bsdpunk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sed</title>
-      <link>https://openmonstervision.github.io/blog/tags/sed/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
+      <title>dataset</title>
+      <link>https://openmonstervision.github.io/blog/tags/dataset/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/sed/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/dataset/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shoppify</title>
-      <link>https://openmonstervision.github.io/blog/tags/shoppify/</link>
-      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      <title>datasets</title>
+      <link>https://openmonstervision.github.io/blog/tags/datasets/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/shoppify/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/datasets/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sre</title>
-      <link>https://openmonstervision.github.io/blog/tags/sre/</link>
-      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
+      <title>PurpleSquirrels</title>
+      <link>https://openmonstervision.github.io/blog/tags/purplesquirrels/</link>
+      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
-      <guid>https://openmonstervision.github.io/blog/tags/sre/</guid>
+      <guid>https://openmonstervision.github.io/blog/tags/purplesquirrels/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tech</title>
+      <title>career</title>
+      <link>https://openmonstervision.github.io/blog/tags/career/</link>
+      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interviews</title>
+      <link>https://openmonstervision.github.io/blog/tags/interviews/</link>
+      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recruiters</title>
+      <link>https://openmonstervision.github.io/blog/tags/recruiters/</link>
+      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/recruiters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
       <link>https://openmonstervision.github.io/blog/tags/tech/</link>
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
@@ -462,7 +318,7 @@
     </item>
     
     <item>
-      <title>Tech Careers</title>
+      <title>tech careers</title>
       <link>https://openmonstervision.github.io/blog/tags/tech-careers/</link>
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
@@ -471,11 +327,83 @@
     </item>
     
     <item>
-      <title>Worst Customer Service</title>
+      <title>worst customer service</title>
       <link>https://openmonstervision.github.io/blog/tags/worst-customer-service/</link>
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/worst-customer-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily Fantasy</title>
+      <link>https://openmonstervision.github.io/blog/tags/daily-fantasy/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/daily-fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DraftKings</title>
+      <link>https://openmonstervision.github.io/blog/tags/draftkings/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/draftkings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://openmonstervision.github.io/blog/tags/machine-learning/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFL</title>
+      <link>https://openmonstervision.github.io/blog/tags/nfl/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/nfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Math</title>
+      <link>https://openmonstervision.github.io/blog/tags/predictive-math/</link>
+      <pubDate>Thu, 19 Oct 2017 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/predictive-math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shoppify</title>
+      <link>https://openmonstervision.github.io/blog/tags/shoppify/</link>
+      <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/shoppify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>satire</title>
+      <link>https://openmonstervision.github.io/blog/tags/satire/</link>
+      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/satire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sre</title>
+      <link>https://openmonstervision.github.io/blog/tags/sre/</link>
+      <pubDate>Thu, 21 Sep 2017 11:09:02 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/sre/</guid>
       <description></description>
     </item>
     

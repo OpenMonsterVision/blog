@@ -22,18 +22,6 @@ GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the
     </item>
     
     <item>
-      <title>PHP Recruiting Email</title>
-      <link>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</guid>
-      <description>An email from a recruiter Dustin,
-Always Are you ready to take the next steps in your career? &amp;lt; YES
-But No one wants to do php I’ve got a client looking for a PHP Developer (Laravel, Javascript) in Nashville, TN. The full job description is below. &amp;lt; So steps backwards?
-Indeed If you are a PHP Developer with experience, please read on! What You Will Be Doing &amp;lt; I am and this makes me sad.</description>
-    </item>
-    
-    <item>
       <title>Grubby Little Hacker</title>
       <link>https://openmonstervision.github.io/blog/posts/grubby-little-hacker/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
@@ -53,15 +41,6 @@ Always lower case. In fiction they were smart, they were generally physically we
       <description>I used to live in Philadelphia 
 I assure I commited neither. I got the dataset here.
 The Code library(&amp;quot;ggplot2&amp;quot;) library(&amp;quot;ggmap&amp;quot;) #Get Philadelphia Crime Data, this takes a while philCrimeData &amp;lt;- read.csv(&amp;quot;~/Downloads/crime.csv&amp;quot;,stringsAsFactors = FALSE) # Get Philly Map, Zoom in slightly philCrimeMap &amp;lt;- get_map(location = &amp;quot;philadelphia&amp;quot;,maptype = &amp;quot;roadmap&amp;quot;, zoom = 12) #Create Map philCrimeMapGG &amp;lt;- ggmap(philCrimeMap) #Create My Address me &amp;lt;- data.frame( Lon = c(-75.112021), Lat = c(39.991058), Crime = &amp;quot;Me&amp;quot;, stringsAsFactors = FALSE ) #Data Needs to be arranged so that the legend prints properly #Create rapes table rapes &amp;lt;- philCrimeData[which( philCrimeData$Text_General_Code == &#39;Rape&#39; ),] rapes &amp;lt;- rapes[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col rapes$Crime &amp;lt;- &amp;quot;Rapes&amp;quot; #Create Murders Table murders &amp;lt;- philCrimeData[grep(pattern = &amp;quot;Homicide&amp;quot;,philCrimeData$Text_General_Code),] murders &amp;lt;- murders[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col murders$Crime &amp;lt;- &amp;quot;Homicides&amp;quot; #Bind Tables Crimes &amp;lt;- rbind(rapes, murders) #Add Dots pngf &amp;lt;- philCrimeMapGG + #Make Crime dots, There&#39;s a lot So make them Transparent geom_point(show.</description>
-    </item>
-    
-    <item>
-      <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</guid>
-      <description>The Wrong Way Worse Is Better As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly simple data conversion jobs from various freelancing sites and customers. So of course, worse is better is my go to philosophy. Well this dug &amp;lsquo;ol @bsdpunk into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery.</description>
     </item>
     
     <item>

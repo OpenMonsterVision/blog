@@ -1,0 +1,14 @@
+{{ $baseurl := .Site.BaseURL }}
+{{ partial "header.html" . }}
+{{ $taxonomy := "tags" }}
+{{ with .Param $taxonomy }}
+  <ul>
+    {{ range $index, $tag := . }}
+      {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+        <li>
+          <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+  {{ end }}

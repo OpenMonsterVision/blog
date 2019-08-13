@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sre on Open Monster Vision</title>
+    <title>sre on Open Monster Vision</title>
     <link>https://openmonstervision.github.io/blog/tags/sre/</link>
-    <description>Recent content in Sre on Open Monster Vision</description>
+    <description>Recent content in sre on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Sep 2017 11:09:02 -0500</lastBuildDate>

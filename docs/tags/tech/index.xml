@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Open Monster Vision</title>
+    <title>tech on Open Monster Vision</title>
     <link>https://openmonstervision.github.io/blog/tags/tech/</link>
-    <description>Recent content in Tech on Open Monster Vision</description>
+    <description>Recent content in tech on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Oct 2017 11:14:01 -0500</lastBuildDate>

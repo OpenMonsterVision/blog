@@ -6,19 +6,10 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Apr 2018 17:39:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 04:53:45 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Turning Dungeons and Dragons Monster Manual PDF Into Json</title>
-      <link>https://openmonstervision.github.io/blog/content/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
-      <pubDate>Fri, 13 Apr 2018 17:39:21 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/content/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Turning the D and D Monster Manual into JSON</title>
@@ -28,27 +19,6 @@
       <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
       <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
 GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
-    </item>
-    
-    <item>
-      <title>PHP Recruiting Email</title>
-      <link>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</link>
-      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</guid>
-      <description>An email from a recruiter Dustin,
-Always Are you ready to take the next steps in your career? &amp;lt; YES
-But No one wants to do php I’ve got a client looking for a PHP Developer (Laravel, Javascript) in Nashville, TN. The full job description is below. &amp;lt; So steps backwards?
-Indeed If you are a PHP Developer with experience, please read on! What You Will Be Doing &amp;lt; I am and this makes me sad.</description>
-    </item>
-    
-    <item>
-      <title>Recruiter Email</title>
-      <link>https://openmonstervision.github.io/blog/content/posts/recruiter-email/</link>
-      <pubDate>Fri, 23 Mar 2018 00:49:29 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/content/posts/recruiter-email/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -71,15 +41,6 @@ Always lower case. In fiction they were smart, they were generally physically we
       <description>I used to live in Philadelphia 
 I assure I commited neither. I got the dataset here.
 The Code library(&amp;quot;ggplot2&amp;quot;) library(&amp;quot;ggmap&amp;quot;) #Get Philadelphia Crime Data, this takes a while philCrimeData &amp;lt;- read.csv(&amp;quot;~/Downloads/crime.csv&amp;quot;,stringsAsFactors = FALSE) # Get Philly Map, Zoom in slightly philCrimeMap &amp;lt;- get_map(location = &amp;quot;philadelphia&amp;quot;,maptype = &amp;quot;roadmap&amp;quot;, zoom = 12) #Create Map philCrimeMapGG &amp;lt;- ggmap(philCrimeMap) #Create My Address me &amp;lt;- data.frame( Lon = c(-75.112021), Lat = c(39.991058), Crime = &amp;quot;Me&amp;quot;, stringsAsFactors = FALSE ) #Data Needs to be arranged so that the legend prints properly #Create rapes table rapes &amp;lt;- philCrimeData[which( philCrimeData$Text_General_Code == &#39;Rape&#39; ),] rapes &amp;lt;- rapes[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col rapes$Crime &amp;lt;- &amp;quot;Rapes&amp;quot; #Create Murders Table murders &amp;lt;- philCrimeData[grep(pattern = &amp;quot;Homicide&amp;quot;,philCrimeData$Text_General_Code),] murders &amp;lt;- murders[,c(&amp;quot;Lat&amp;quot;,&amp;quot;Lon&amp;quot;)] #Create Crime Col murders$Crime &amp;lt;- &amp;quot;Homicides&amp;quot; #Bind Tables Crimes &amp;lt;- rbind(rapes, murders) #Add Dots pngf &amp;lt;- philCrimeMapGG + #Make Crime dots, There&#39;s a lot So make them Transparent geom_point(show.</description>
-    </item>
-    
-    <item>
-      <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
-      <link>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</link>
-      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</guid>
-      <description>The Wrong Way Worse Is Better As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly simple data conversion jobs from various freelancing sites and customers. So of course, worse is better is my go to philosophy. Well this dug &amp;lsquo;ol @bsdpunk into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery.</description>
     </item>
     
     <item>
@@ -128,16 +89,6 @@ The Why Recently I have become destitute so I have taken to using the skills I h
       
       <guid>https://openmonstervision.github.io/blog/posts/how-not-to-get-a-job-with-an-elite-tech-company/</guid>
       <description>I am an Expert Let&amp;rsquo;s establish the parameters of what makes me an expert on not getting an elite job with a tech company. I have interviewed for an SRE(Site Reliability Engineer) role, at both Google and facebook, and failed to achieve those positions. Last month I interviewed for an SRE for one of the top 25 most visited sites, and also failed to achieve that position. Why on September 13th I didn&amp;rsquo;t even bother to respond to this Vimeo voice mail I am the Michael Jordan, of not achieving an engineering position with elite Silicon Valley tech companies.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://openmonstervision.github.io/blog/about/</link>
-      <pubDate>Wed, 06 Sep 2017 15:56:22 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/about/</guid>
-      <description> JavaScript Developer with Design Background @trozdol and Old school linux admin,@bsdpunk word vomit on a blog. A poor attempt at tech humor. Open MonsterVision itself is a github account for people who want to learn more about programming, and are old enough to remember Joe Bob Briggs&amp;rsquo; MonsterVision.
- </description>
     </item>
     
   </channel>
