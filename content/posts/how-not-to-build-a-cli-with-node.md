@@ -64,14 +64,32 @@ This by their nature makes them scriptable.
 
 Also, command line tools make assumptions, and they rarely send you into an interface. There's reason for this. Nobody wants to type a bunch of unnessecary flags, and even more than that, no one wants to have a script they're writing hang, because it went into an interactive mode. What, now I got start writing expect scripts for everything, no way. If you want to develop an interactive tool, then you need to make either a shell, complete with tab completion, and every other bell and whistle anyone could want, or you have an explicit flag for interactive mode.
 
+And if you think I shouldn't harp on the interactive part, as that is the I in CLI, well I got something for you there too. Actual CLI's shouldn't be a choice or two...this should be shells. They should be true interactive experiences, check out this actual shell I wrote, [kish](https://github.com/bsdpunk/kish).
 
 ## The same thing that's wrong with every Node project
 To many goddamn dependencies, an npm ls of the project:
 
 ``` bash
+$ ls node_modules/
+@samverschueren		code-point-at		figures			listr			npm-run-path		run-async		supports-color
+@types			color-convert		get-stream		listr-silent-renderer	number-is-nan		rxjs			symbol-observable
+ansi-escapes		color-name		has-ansi		listr-update-renderer	object-assign		safer-buffer		through
+ansi-regex		cross-spawn		has-flag		listr-verbose-renderer	once			semver			tmp
+ansi-styles		date-fns		iconv-lite		lodash			onetime			shebang-command		tslib
+any-observable		elegant-spinner		indent-string		log-symbols		os-tmpdir		shebang-regex		type-fest
+arg			emoji-regex		inquirer		log-update		p-finally		signal-exit		which
+chalk			end-of-stream		is-fullwidth-code-point	merge-stream		p-map			slice-ansi		wrap-ansi
+chardet			escape-string-regexp	is-observable		mimic-fn		path-key		string-width		wrappy
+cli-cursor		esm			is-promise		mute-stream		pkg-install		strip-ansi
+cli-truncate		execa			is-stream		ncp			pump			strip-eof
+cli-width		external-editor		isexe			nice-try		restore-cursor		strip-final-newline
 
 ```
-
+That's 81...you know....not counting there dependencies.
+``` bash
+$ ls node_modules/ | wc -l
+      81
+```
 
 
 # Guided Tour
@@ -106,3 +124,9 @@ new URL(currentFileUrl).pathname,
    options.template.toLowerCase()
  );
 ```
+Anyway more code and npm installs. We're finally done and it looks like 81ish node_modules for this quite broken CLI.
+
+
+# OK, so you've been mean but your not improving on anything?
+Well of course I did, I made a node tool, with a single dependency even recycling brohaims code. Cause despite all my complaints it's clear to me that guy knows how to code better than I do, we just don't agree on other stuff.
+
