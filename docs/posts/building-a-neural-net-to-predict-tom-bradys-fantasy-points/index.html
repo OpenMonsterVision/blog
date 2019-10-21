@@ -1,65 +1,115 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<head>
-<meta charset="utf-8">
-<meta name="description" content="">
-<meta name="author" content="BSDPunk">
-<meta name="generator" content="Hugo 0.56.3" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/style.css" type="text/css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" type="text/css">
-<link rel="alternate" href="https://openmonstervision.github.io/blog/index.xml" type="application/rss+xml" title="Open Monster Vision">
-<title>Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points - Open Monster Vision</title>
-</head>
-<body>
+<html>
 
-<header>
-  <div class="container clearfix">
-    <a class="path" href="https://openmonstervision.github.io/blog/">[Open Monster Vision]</a>
-    <span class="caret"># _</span>
-    <div class="right">
-      
+  <head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points - Open Monster Vision</title>
+<meta name="description" content="The Who I don&amp;rsquo;t know how to tie my shoes, this will come into play later.
+The Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn&amp;rsquo;t remember DraftKings is legal because it&amp;rsquo;s a game of skill. The Code Let&amp;rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady &amp;lt;- read."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="The Who I don&amp;rsquo;t know how to tie my shoes, this will come into play later.
+The Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn&amp;rsquo;t remember DraftKings is legal because it&amp;rsquo;s a game of skill. The Code Let&amp;rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady &amp;lt;- read." />
+<meta name="twitter:title" content="Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points - Open Monster Vision" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+
+
+<meta property="og:type" content="article" />
+<meta content="Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points - Open Monster Vision" property="og:title">
+<meta content="The Who I don&amp;rsquo;t know how to tie my shoes, this will come into play later.
+The Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn&amp;rsquo;t remember DraftKings is legal because it&amp;rsquo;s a game of skill. The Code Let&amp;rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady &amp;lt;- read." property="og:description">
+<meta property="og:url" content="https://openmonstervision.github.io/blog/posts/building-a-neural-net-to-predict-tom-bradys-fantasy-points/" />
+<meta property="og:site_name" content="Open Monster Vision" />
+
+<meta property="article:published_time" content="2017-10-19 08:04:14 -0500 CDT" />
+
+
+
+
+
+<script type="application/ld+json">
+{ 
+    "@context": "http://schema.org", 
+    "@type": "BlogPosting",
+    "headline": "Building a Neural Net to Predict Tom Brady\x27s Fantasy Points",
+    "genre": "",  
+    "url": "https:\/\/openmonstervision.github.io\/blog\/posts\/building-a-neural-net-to-predict-tom-bradys-fantasy-points\/",
+    "datePublished": "2017-10-19 08:04:14 -0500 CDT",
+    "description": "The Who I don\x26rsquo;t know how to tie my shoes, this will come into play later.\nThe Why So we can all make lots of money gambling. Wait, is it even gambling then? Oh no, it isn\x26rsquo;t remember DraftKings is legal because it\x26rsquo;s a game of skill. The Code Let\x26rsquo;s Build this thing. I used R, you can use whatever plebian language you prefer. #Import Tom Brady Data tombrady \x26lt;- read.",
+    "author": {
+        "@type": "Person",
+        "name": ""
+    }
+ }
+</script>
+
+
+
+
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/sass/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://openmonstervision.github.io/blog/">Open Monster Vision</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://openmonstervision.github.io/blog/pages/about/">About</a></li>
+        <li><a href="https://openmonstervision.github.io/blog/pages/contact/">Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Download <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a target="_blank" href="https://github.com/bul-ikana/hugo-cards">Project</a></li>
+            <li><a href="https://github.com/bul-ikana/hugo-cards.git">Download</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a target="_blank" href="https://themes.gohugo.io/">More Themes</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
   </div>
+</nav>
 </header>
 
-<div class="container">
 
+    <div class="container">
+      <div class="wrapper">
+        
+<div class="row">
+<div class="col-md-8">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<main role="main" class="article">
-  
-<article class="single" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="meta">
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points</h1>
+            <p class="post-meta"><time datetime='2017-10-19T08:04:14-05:00' itemprop="datePublished">October 19, 2017</time></p>
+                 
+          </header>
 
-    <span class="key">published on</span>
-    <span class="val"><time itemprop="datePublished" datetime="2017-10-19">October 19, 2017</time></span>
-
-
-
-    <br>
-    <span class="key">tags:</span>
-    <span class="val">
-
-        <a href="https://openmonstervision.github.io/blog/tags/r">R</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/rlang">Rlang</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/machine-learning">Machine Learning</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/nfl">NFL</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/draftkings">DraftKings</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/daily-fantasy">Daily Fantasy</a>
-
-        <a href="https://openmonstervision.github.io/blog/tags/predictive-math">Predictive Math</a>
-
-    </span>
-
-  </div>
-  <h1 class="headline" itemprop="headline">Building a Neural Net to Predict Tom Brady&#39;s Fantasy Points</h1>
-  <section class="body" itemprop="articleBody">
-    
+          <div class="post-content" itemprop="articleBody">
+            
 
 <p><link rel="stylesheet" href="https://openmonstervision.github.io/prism.css" />
 <script src="https://openmonstervision.github.io/prism.js" type="text/javascript"></script></p>
@@ -119,19 +169,95 @@ cor(predicted_tom, tom_test$Act)
 
 <p>Probably buy a book from <a href="https://www.amazon.com/gp/product/0143125087/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=bsdpblog-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=0143125087&amp;linkId=830177ea55aad172e6957277bb7c6c32">someone</a> who actually knows what they&rsquo;re talking about.</p>
 
-  </section>
-</article>
+          </div>
 
-</main>
+    </article>
+    <div class="row">
+        
+    </div>
+    
+    <div class="row">
+            <ul class="pager">
+             
+                    <li><a class="next" href="https://openmonstervision.github.io/blog/posts/lets-have-an-honest-conversation-about-recruiters/">&laquo; Let&#39;s Have an Honest Conversation About Recruiters</a></li>
+              
+              
+                <li><a class="previous" href="https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/">How to Make Money Using Grep Sed and Awk &raquo;</a></li>
+              
+            </ul>
+    </div>
+</div>
+
+
+<div class="col-md-4 mt20">
+        <div class="post-img">
+           
+            <img width="600" src="https://openmonstervision.github.io/blog/images/" alt="webjeda">
+            
+        </div>
+            
+        
+        <div class="mt10 recent">
+            <h2>Recent articles</h2>        
+             <ul>
+                
+
+                      <li>
+                      <p><a href="https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/">Turning the D and D Monster Manual into JSON</a><small>&nbsp;&nbsp;April 10, 2018</small></p>
+                      </li>
+
+                
+
+                      <li>
+                      <p><a href="https://openmonstervision.github.io/blog/posts/grubby-little-hacker/">Grubby Little Hacker</a><small>&nbsp;&nbsp;December 9, 2017</small></p>
+                      </li>
+
+                
+
+                      <li>
+                      <p><a href="https://openmonstervision.github.io/blog/posts/data-irl/">How to Create Data IRL Maps</a><small>&nbsp;&nbsp;December 8, 2017</small></p>
+                      </li>
+
+                
+              </ul>
+        </div>
+        
+        <br>
 
 </div>
 
-<footer>
-  <div class="container">
-    <span class="copyright">&copy; 2018 Open Monster Vision - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></span>
-  </div>
+</div>
+
+
+
+
+      </div>
+    </div>
+
+    <footer>
+    <div class="container">
+        <div class="row p20">
+            
+
+            <div class="col-md-4 text-center mt25" >
+                
+            </div>
+            <div class="col-md-4 text-center mt25">
+               
+               
+               
+               
+               
+            </div>
+
+        </div> 
+    </div>
 </footer>
+    
 
-</body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="https://openmonstervision.github.io/blog//js/bootstrap.min.js"></script>
+  
+  </body>
+
 </html>
-

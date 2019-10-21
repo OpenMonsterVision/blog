@@ -102,15 +102,6 @@
     </item>
     
     <item>
-      <title>Grubby Little Hacker</title>
-      <link>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</link>
-      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>computer history</title>
       <link>https://openmonstervision.github.io/blog/tags/computer-history/</link>
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
@@ -143,6 +134,15 @@
       <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/grubby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grubby Little Hacker</title>
+      <link>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</link>
+      <pubDate>Sat, 09 Dec 2017 02:12:01 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</guid>
       <description></description>
     </item>
     
@@ -192,11 +192,38 @@
     </item>
     
     <item>
+      <title>bsdpunk</title>
+      <link>https://openmonstervision.github.io/blog/tags/bsdpunk/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/bsdpunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>https://openmonstervision.github.io/blog/tags/code/</link>
       <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataset</title>
+      <link>https://openmonstervision.github.io/blog/tags/dataset/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datasets</title>
+      <link>https://openmonstervision.github.io/blog/tags/datasets/</link>
+      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/datasets/</guid>
       <description></description>
     </item>
     
@@ -246,42 +273,6 @@
     </item>
     
     <item>
-      <title>bsdpunk</title>
-      <link>https://openmonstervision.github.io/blog/tags/bsdpunk/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/bsdpunk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dataset</title>
-      <link>https://openmonstervision.github.io/blog/tags/dataset/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datasets</title>
-      <link>https://openmonstervision.github.io/blog/tags/datasets/</link>
-      <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/datasets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PurpleSquirrels</title>
-      <link>https://openmonstervision.github.io/blog/tags/purplesquirrels/</link>
-      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/purplesquirrels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>career</title>
       <link>https://openmonstervision.github.io/blog/tags/career/</link>
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
@@ -296,6 +287,15 @@
       <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PurpleSquirrels</title>
+      <link>https://openmonstervision.github.io/blog/tags/purplesquirrels/</link>
+      <pubDate>Fri, 20 Oct 2017 11:14:01 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/purplesquirrels/</guid>
       <description></description>
     </item>
     

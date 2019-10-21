@@ -3,21 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/bash/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/csv/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/dnd/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/grep/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/json/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/linux/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/pdf/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/posts/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/regex/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/sed/</loc>
+    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,69 +73,28 @@
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://openmonstervision.github.io/blog/tags/computer-history/</loc>
+    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/bash/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://openmonstervision.github.io/blog/tags/computers/</loc>
+    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/csv/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://openmonstervision.github.io/blog/tags/glh/</loc>
+    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/dnd/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/grep/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/json/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/linux/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/pdf/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/regex/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/sed/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://openmonstervision.github.io/blog/tags/grubby/</loc>
+    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/grubby-little-hacker/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,69 +103,53 @@
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/computer-history/</loc>
-    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/computers/</loc>
-    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/glh/</loc>
-    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/grubby/</loc>
-    <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://openmonstervision.github.io/blog/tags/hacker/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/hacking/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/history/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/little/</loc>
     <lastmod>2017-12-09T02:12:01-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/adult/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/bsdpunk/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/code/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/dataset/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/datasets/</loc>
+    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/graphs/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -170,48 +160,36 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/maps/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/me/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/r/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/rlang/</loc>
     <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/bsdpunk/</loc>
-    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/dataset/</loc>
-    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/datasets/</loc>
-    <lastmod>2017-12-08T17:45:48-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/posts/werner-hertzog-destroyed-me-at-linux-fu/</loc>
     <lastmod>2017-10-24T23:14:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/career/</loc>
+    <lastmod>2017-10-20T11:14:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/interviews/</loc>
+    <lastmod>2017-10-20T11:14:01-05:00</lastmod>
   </url>
   
   <url>
@@ -222,43 +200,26 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/purplesquirrels/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/career/</loc>
-    <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/interviews/</loc>
-    <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/recruiters/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/tech/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/tech-careers/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/worst-customer-service/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -269,31 +230,26 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/daily-fantasy/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/draftkings/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/machine-learning/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/nfl/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/predictive-math/</loc>
     <lastmod>2017-10-19T08:04:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -304,7 +260,6 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/shoppify/</loc>
     <lastmod>2017-10-10T04:53:45-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -315,18 +270,15 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/satire/</loc>
     <lastmod>2017-09-21T11:09:02-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/sre/</loc>
     <lastmod>2017-09-21T11:09:02-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://openmonstervision.github.io/blog/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
