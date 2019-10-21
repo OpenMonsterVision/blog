@@ -1,7 +1,7 @@
 baseURL       = "https://openmonstervision.github.io/blog/"
 title         = "Open Monster Vision"
 languageCode  = "en-us"
-theme         = "outrun"
+theme         = ""
 contentDir    = "content"
 layoutDir     = "layouts"
 publishDir    = "docs"
