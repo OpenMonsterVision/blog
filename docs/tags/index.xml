@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>json</title>
+      <title>JSON</title>
       <link>https://openmonstervision.github.io/blog/tags/json/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
@@ -269,6 +269,42 @@
       <pubDate>Fri, 08 Dec 2017 17:45:48 -0600</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/rlang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bigdata</title>
+      <link>https://openmonstervision.github.io/blog/tags/bigdata/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BigQuery</title>
+      <link>https://openmonstervision.github.io/blog/tags/bigquery/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/bigquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://openmonstervision.github.io/blog/tags/data/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>databases</title>
+      <link>https://openmonstervision.github.io/blog/tags/databases/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/databases/</guid>
       <description></description>
     </item>
     

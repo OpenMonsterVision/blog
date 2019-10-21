@@ -2,7 +2,7 @@
 title: "How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing"
 date: 2017-10-30T14:37:20-05:00
 tags : ["BigQuery","data","databases","awk", "csv", "JSON", "sed","grep", "bigdata"]
-draft: true
+draft: false
 ---
 # The Wrong Way
 

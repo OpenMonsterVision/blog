@@ -22,6 +22,15 @@ GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the
     </item>
     
     <item>
+      <title>How Not to Turn 10000 Json Files Into One Database, The Perils of Freelancing</title>
+      <link>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</link>
+      <pubDate>Mon, 30 Oct 2017 14:37:20 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-turn-1000-json-files-into-one-csv/</guid>
+      <description>The Wrong Way Worse Is Better As a grubby unix hacker, I usually take the easy way on my projects. And as of late, I have been getting fairly simple data conversion jobs from various freelancing sites and customers. So of course, worse is better is my go to philosophy. Well this dug &amp;lsquo;ol @bsdpunk into a little hole. I got a couple of example JSON files, from a guy who said he had a lot of data and wanted to turn them into a single CSV, to load into BigQuery.</description>
+    </item>
+    
+    <item>
       <title>How to Make Money Using Grep Sed and Awk</title>
       <link>https://openmonstervision.github.io/blog/posts/how-to-make-money-using-grep-sed-and-awk/</link>
       <pubDate>Tue, 10 Oct 2017 04:53:45 -0500</pubDate>
