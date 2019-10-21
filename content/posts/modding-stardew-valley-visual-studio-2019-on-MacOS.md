@@ -20,6 +20,7 @@ You'll have to set your project up under Other .NET, And Library. The Wiki was o
 
 # xnb files
 You should get familiar with the various XNB files that make modding the game very easy.
+<br />
 [dialog](https://stardewvalleywiki.com/Modding:Dialogue)
 <br />
 [schedule](https://stardewvalleywiki.com/Modding:Schedule_data)
