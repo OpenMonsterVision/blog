@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 04:53:45 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 17:45:48 -0600</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modding Stardew Valley using Visual Studio 2019 On MacOS</title>
+      <link>https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/</link>
+      <pubDate>Sun, 20 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/</guid>
+      <description>The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.
+Setting up your project You&amp;rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&amp;rsquo;t have good screenshots for this.
+Adding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good.</description>
+    </item>
     
     <item>
       <title>Turning the D and D Monster Manual into JSON</title>

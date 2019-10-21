@@ -4,6 +4,9 @@ date: 2017-10-10T04:53:45-05:00
 tags : [ "shoppify","csv","grep","awk","linux","bash","sed","pdf","regex"]
 draft: false
 ---
+
+<link rel="stylesheet" href="https://openmonstervision.github.io/prism.css" />
+<script src="https://openmonstervision.github.io/prism.js" type="text/javascript"></script>
 # The Who
 
 I'm your friendly neighborhood unix man. And I have a problem. I love regex. Now I have two problems.
