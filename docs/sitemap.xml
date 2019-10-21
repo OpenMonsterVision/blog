@@ -303,6 +303,16 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/categories/</loc>
   </url>
   
