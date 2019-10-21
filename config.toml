@@ -17,3 +17,4 @@ pygmentsuseclasses = true
     subtitle = "Coding and Stuff"
     author   = "BSDPunk"
     archive  = "archive"
+    defaultImage = "gopher.png"
