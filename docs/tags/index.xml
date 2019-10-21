@@ -6,17 +6,98 @@
     <description>Recent content in Tags on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 17:45:48 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 17:45:48 -0600</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>5e</title>
+      <link>https://openmonstervision.github.io/blog/tags/5e/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/5e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://openmonstervision.github.io/blog/tags/automation/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dm</title>
+      <link>https://openmonstervision.github.io/blog/tags/dm/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dnd</title>
+      <link>https://openmonstervision.github.io/blog/tags/dnd/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/dnd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dndshell</title>
+      <link>https://openmonstervision.github.io/blog/tags/dndshell/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/dndshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://openmonstervision.github.io/blog/tags/game/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>games</title>
       <link>https://openmonstervision.github.io/blog/tags/games/</link>
-      <pubDate>Sun, 20 Oct 2019 17:45:48 -0600</pubDate>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>json</title>
+      <link>https://openmonstervision.github.io/blog/tags/json/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://openmonstervision.github.io/blog/tags/shell/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflow</title>
+      <link>https://openmonstervision.github.io/blog/tags/workflow/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/workflow/</guid>
       <description></description>
     </item>
     
@@ -93,29 +174,11 @@
     </item>
     
     <item>
-      <title>dnd</title>
-      <link>https://openmonstervision.github.io/blog/tags/dnd/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/dnd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>grep</title>
       <link>https://openmonstervision.github.io/blog/tags/grep/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/grep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>json</title>
-      <link>https://openmonstervision.github.io/blog/tags/json/</link>
-      <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/json/</guid>
       <description></description>
     </item>
     

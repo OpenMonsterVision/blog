@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dm on Open Monster Vision</title>
+    <link>https://openmonstervision.github.io/blog/tags/dm/</link>
+    <description>Recent content in dm on Open Monster Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 17:45:48 -0600</lastBuildDate>
+    
+	<atom:link href="https://openmonstervision.github.io/blog/tags/dm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating your DM workflow with Dndshell</title>
+      <link>https://openmonstervision.github.io/blog/posts/automating-your-dm-workflow-dndshell/</link>
+      <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/automating-your-dm-workflow-dndshell/</guid>
+      <description>The What dndshell Is a shell I made so you can quickly, access Monsters and other rules(spells/races/classes/dice roles), in text/json format. Most of the leg work for the rules was done by this project 5e-database. You can expand the rules by simply editing the JSON files that come with the shell. To install it&amp;rsquo;s:
+go get github.com/bsdpunk/dndshell  The shell has tab completion and history for the session you are in.</description>
+    </item>
+    
+  </channel>
+</rss>
