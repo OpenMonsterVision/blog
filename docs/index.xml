@@ -102,19 +102,28 @@ The Why Recently I have become destitute so I have taken to using the skills I h
     
     <item>
       <title></title>
-      <link>https://openmonstervision.github.io/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/about/</guid>
-      <description>Nothing</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://openmonstervision.github.io/blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/contact/</guid>
+      <description>gmail: dustycarver</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://openmonstervision.github.io/blog/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/pages/about/</guid>
+      <description>Perpetually unemployed</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://openmonstervision.github.io/blog/pages/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/pages/contact/</guid>
       <description>gmail: dustycarver</description>
     </item>
     
