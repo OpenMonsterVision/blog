@@ -9,7 +9,7 @@
 <title>Modding Stardew Valley using Visual Studio 2019 On MacOS - Open Monster Vision</title>
 <meta name="description" content="The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.
 Setting up your project You&amp;rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&amp;rsquo;t have good screenshots for this.
-Adding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good."/>
+xnb files You should get familiar with the various XNB files that make modding the game very easy. dialog schedule General NPC Data"/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/" />
 
@@ -17,7 +17,7 @@ Adding a new character I would only use a mod like this on new saves. I have had
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:description" content="The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.
 Setting up your project You&amp;rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&amp;rsquo;t have good screenshots for this.
-Adding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good." />
+xnb files You should get familiar with the various XNB files that make modding the game very easy. dialog schedule General NPC Data" />
 <meta name="twitter:title" content="Modding Stardew Valley using Visual Studio 2019 On MacOS - Open Monster Vision" />
 <meta name="twitter:site" content="" />
 <meta name="twitter:creator" content="" />
@@ -27,7 +27,7 @@ Adding a new character I would only use a mod like this on new saves. I have had
 <meta content="Modding Stardew Valley using Visual Studio 2019 On MacOS - Open Monster Vision" property="og:title">
 <meta content="The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.
 Setting up your project You&amp;rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&amp;rsquo;t have good screenshots for this.
-Adding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good." property="og:description">
+xnb files You should get familiar with the various XNB files that make modding the game very easy. dialog schedule General NPC Data" property="og:description">
 <meta property="og:url" content="https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/" />
 <meta property="og:site_name" content="Open Monster Vision" />
 
@@ -45,7 +45,7 @@ Adding a new character I would only use a mod like this on new saves. I have had
     "genre": "",  
     "url": "https:\/\/openmonstervision.github.io\/blog\/posts\/modding-stardew-valley-visual-studio-2019-on-macos\/",
     "datePublished": "2019-10-20 17:45:48 -0600 -0600",
-    "description": "The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.\nSetting up your project You\x26rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn\x26rsquo;t have good screenshots for this.\nAdding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good.",
+    "description": "The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.\nSetting up your project You\x26rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn\x26rsquo;t have good screenshots for this.\nxnb files You should get familiar with the various XNB files that make modding the game very easy. dialog schedule General NPC Data",
     "author": {
         "@type": "Person",
         "name": ""
@@ -125,15 +125,24 @@ Adding a new character I would only use a mod like this on new saves. I have had
 
 <p>You&rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&rsquo;t have good screenshots for this.</p>
 
-<p><img src="one.png" alt=".NET" />
-<img src="two.png" alt="Library" /></p>
+<p><img src="https://openmonstervision.github.io/blog/images/one.png" alt=".NET" />
+<img src="https://openmonstervision.github.io/blog/images/two.png" alt="Library" /></p>
+
+<h1 id="xnb-files">xnb files</h1>
+
+<p>You should get familiar with the various XNB files that make modding the game very easy.
+<a href="https://stardewvalleywiki.com/Modding:Dialogue">dialog</a>
+<br />
+<a href="https://stardewvalleywiki.com/Modding:Schedule_data">schedule</a>
+<br />
+<a href="https://stardewvalleywiki.com/Modding:NPC_data">General NPC Data</a></p>
 
 <h1 id="adding-a-new-character">Adding a new character</h1>
 
 <p>I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good. I think this can be remedied but have not looked into it.
 Here is the ModEntry.cs file:</p>
 
-<pre><code class="language-c#">
+<pre><code class="language-csharp">
 using System;
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;

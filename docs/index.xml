@@ -19,7 +19,7 @@
       <guid>https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/</guid>
       <description>The best modding information The greatest resource for modding is of course, the wiki. For me though it did have an outdated bit.
 Setting up your project You&amp;rsquo;ll have to set your project up under Other .NET, And Library. The Wiki was outdated and didn&amp;rsquo;t have good screenshots for this.
-Adding a new character I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good.</description>
+xnb files You should get familiar with the various XNB files that make modding the game very easy. dialog schedule General NPC Data</description>
     </item>
     
     <item>

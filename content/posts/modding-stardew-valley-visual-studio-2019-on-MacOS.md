@@ -18,6 +18,14 @@ You'll have to set your project up under Other .NET, And Library. The Wiki was o
 ![Library](https://openmonstervision.github.io/blog/images/two.png)
 
 
+# xnb files
+You should get familiar with the various XNB files that make modding the game very easy.
+[dialog](https://stardewvalleywiki.com/Modding:Dialogue)
+<br />
+[schedule](https://stardewvalleywiki.com/Modding:Schedule_data)
+<br />
+[General NPC Data](https://stardewvalleywiki.com/Modding:NPC_data)
+
 # Adding a new character
 
 I would only use a mod like this on new saves. I have had some issues, with removing the mod afterword, and then the savegame is no good. I think this can be remedied but have not looked into it.
