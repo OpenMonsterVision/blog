@@ -4,8 +4,8 @@ date: 2018-04-10T04:53:45-05:00
 tags : [ "json","dnd","csv","grep","awk","linux","bash","sed","pdf","regex"]
 draft: false
 ---
-<link rel="stylesheet" href="https://openmonstervision.github.io/prism.css" />
-<script src="https://openmonstervision.github.io/prism.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/prism.css" />
+<script src="https://openmonstervision.github.io/blog/js/prism.js" type="text/javascript"></script>
 
 # The What
 
