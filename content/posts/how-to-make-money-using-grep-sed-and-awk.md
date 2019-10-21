@@ -5,8 +5,8 @@ tags : [ "shoppify","csv","grep","awk","linux","bash","sed","pdf","regex"]
 draft: false
 ---
 
-<link rel="stylesheet" href="https://openmonstervision.github.io/css/prism.css" />
-<script src="https://openmonstervision.github.io/js/prism.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/prism.css" />
+<script src="https://openmonstervision.github.io/blog/js/prism.js" type="text/javascript"></script>
 # The Who
 
 I'm your friendly neighborhood unix man. And I have a problem. I love regex. Now I have two problems.

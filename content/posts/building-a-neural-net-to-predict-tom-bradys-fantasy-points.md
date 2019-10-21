@@ -5,8 +5,8 @@ tags : ["R","Rlang","Machine Learning","NFL", "DraftKings", "Daily Fantasy", "Pr
 draft: false
 ---
 
-<link rel="stylesheet" href="https://openmonstervision.github.io/prism.css" />
-<script src="https://openmonstervision.github.io/prism.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/prism.css" />
+<script src="https://openmonstervision.github.io/blog/js/prism.js" type="text/javascript"></script>
 # The Who
 
 I don't know how to tie my shoes, this will come into play later. 

@@ -4,8 +4,8 @@ date: 2019-10-20T17:45:48-06:00
 tags : ["stardew valley", "sdv", "modding", "games", "mac", "visual studio"]
 draft: false
 ---
-<link rel="stylesheet" href="https://openmonstervision.github.io/css/prism.css" />
-<script src="https://openmonstervision.github.io/js/prism.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/prism.css" />
+<script src="https://openmonstervision.github.io/blog/js/prism.js" type="text/javascript"></script>
 # The best modding information
 
 The greatest resource for modding is of course, the [wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started). For me though it did have an outdated bit.

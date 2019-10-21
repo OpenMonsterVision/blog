@@ -4,8 +4,8 @@ date: 2017-12-08T17:45:48-06:00
 tags : ["R","Maps","Me","bsdpunk","Adult","dataset","datasets","Rlang","Code","Graphs"]
 draft: false
 ---
-<link rel="stylesheet" href="https://openmonstervision.github.io/prism.css" />
-<script src="https://openmonstervision.github.io/prism.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://openmonstervision.github.io/blog/css/prism.css" />
+<script src="https://openmonstervision.github.io/blog/js/prism.js" type="text/javascript"></script>
 # I used to live in Philadelphia
 
 <a href="https://i.imgur.com/dRefCUE.png"> ![Philly Crime](https://i.imgur.com/dRefCUE.png "Philly Crime")</a>
