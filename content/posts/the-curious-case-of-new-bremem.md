@@ -1,7 +1,7 @@
 ---
 title: "The Curious Case of New Bremem, a DevOps interview with Crown Equipment"
-date: 2019-09-09T14:45:12-05:00
-draft: true
+date: 2019-10-24T12:45:12-05:00
+draft: false
 ---
 
 # An interview !
