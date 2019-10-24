@@ -17,7 +17,7 @@ Land at the Dayton. Get rental car. Pop in GPS. More than an hour away. Wait, wh
 
 Important things from my large informational packet, checkout is 9AM the day you are scheduled to leave. My interview was at 1PM the next day. Some interesting information about alcohol: 
 <br />
-![Alcohol will be provided](https://openmonstervision.github.io/images/alcohol.png)
+![Alcohol will be provided](https://raw.githubusercontent.com/OpenMonsterVision/blog/master/docs/images/alcohol.png)
 <br />
 
 My room turned out to be corporate housing. Which meant it was just a well furnished house. The house was stocked with snacks, drinks, and adult beverages. I wanted a beer, in fact I wanted all the beer, but I didn't want them to see I drank all there craft beers the night before an interview. I removed one from the fridge, but placed it back after thinking better of it. After all, there was a 9am checkout time. I drank several waters, and an orange juice in the morning. Now because my checkout time was 9 am, and it was about 11pm by the time I settled in, I chose not to sleep.
