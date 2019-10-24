@@ -6,10 +6,19 @@
     <description>Recent content on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 17:45:48 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 12:45:12 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Curious Case of New Bremem, a DevOps interview with Crown Equipment</title>
+      <link>https://openmonstervision.github.io/blog/posts/the-curious-case-of-new-bremem/</link>
+      <pubDate>Thu, 24 Oct 2019 12:45:12 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/the-curious-case-of-new-bremem/</guid>
+      <description>An interview ! After looking for a DevOps, or SRE role for a while, I was invited to interview with the company Crown Equipment. They sent me an airplane ticket, and I was flying near a government holiday, so the roundtrip ticket was probably a bit more expensive than it had to be. To be honest it was at my insistance, being that I wanted some time to decompress after the flight.</description>
+    </item>
     
     <item>
       <title>Automating your DM workflow with Dndshell</title>
