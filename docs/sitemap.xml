@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/</loc>
+    <lastmod>2019-10-24T12:45:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/</loc>
+    <lastmod>2019-10-24T12:45:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/the-curious-case-of-new-bremem/</loc>
+    <lastmod>2019-10-24T12:45:12-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/5e/</loc>
     <lastmod>2019-10-21T17:45:48-06:00</lastmod>
   </url>
@@ -44,16 +59,6 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/json/</loc>
-    <lastmod>2019-10-21T17:45:48-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/</loc>
-    <lastmod>2019-10-21T17:45:48-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/posts/</loc>
     <lastmod>2019-10-21T17:45:48-06:00</lastmod>
   </url>
   
