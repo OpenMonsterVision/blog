@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 17:45:48 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 14:15:48 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>devops</title>
+      <link>https://openmonstervision.github.io/blog/tags/devops/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interviews</title>
+      <link>https://openmonstervision.github.io/blog/tags/interviews/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://openmonstervision.github.io/blog/tags/linux/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micfo</title>
+      <link>https://openmonstervision.github.io/blog/tags/micfo/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/micfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ptr</title>
+      <link>https://openmonstervision.github.io/blog/tags/ptr/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/ptr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Law</title>
+      <link>https://openmonstervision.github.io/blog/tags/the-law/</link>
+      <pubDate>Tue, 18 Feb 2020 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/tags/the-law/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>5e</title>
@@ -75,7 +129,7 @@
     </item>
     
     <item>
-      <title>json</title>
+      <title>JSON</title>
       <link>https://openmonstervision.github.io/blog/tags/json/</link>
       <pubDate>Mon, 21 Oct 2019 17:45:48 -0600</pubDate>
       
@@ -201,15 +255,6 @@
     </item>
     
     <item>
-      <title>linux</title>
-      <link>https://openmonstervision.github.io/blog/tags/linux/</link>
-      <pubDate>Tue, 13 Aug 2019 17:21:28 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>node</title>
       <link>https://openmonstervision.github.io/blog/tags/node/</link>
       <pubDate>Tue, 13 Aug 2019 17:21:28 -0500</pubDate>
@@ -224,51 +269,6 @@
       <pubDate>Tue, 13 Aug 2019 17:21:28 -0500</pubDate>
       
       <guid>https://openmonstervision.github.io/blog/tags/unix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>devops</title>
-      <link>https://openmonstervision.github.io/blog/tags/devops/</link>
-      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interviews</title>
-      <link>https://openmonstervision.github.io/blog/tags/interviews/</link>
-      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/interviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micfo</title>
-      <link>https://openmonstervision.github.io/blog/tags/micfo/</link>
-      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/micfo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ptr</title>
-      <link>https://openmonstervision.github.io/blog/tags/ptr/</link>
-      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/ptr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Law</title>
-      <link>https://openmonstervision.github.io/blog/tags/the-law/</link>
-      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
-      
-      <guid>https://openmonstervision.github.io/blog/tags/the-law/</guid>
       <description></description>
     </item>
     

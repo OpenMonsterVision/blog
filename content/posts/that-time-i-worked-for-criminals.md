@@ -1,6 +1,6 @@
 ---
 title: "That Time I Worked for A Criminal Organization"
-date: 2019-08-13T14:15:48-05:00
+date: 2020-02-18T14:15:48-05:00
 tags : ["interviews","devops","linux","ptr","The Law","Micfo"]
 draft: true
 ---
@@ -8,7 +8,7 @@ draft: true
 
 # That time I was employed by a criminal organization
 
-I was employed by [Micfo]() for several months, I quickly determined that they were shady and invovled in illegal practices. I did not quit because of that, I quit because I felt unwanted, by HR and Management. Later they would ask me to come back. This is the full story. There will be amazon affiliate links at the end of the page in the epiloge(I am currently unemployed).
+I was employed by [Micfo](https://www.wsj.com/articles/fraud-case-in-charleston-s-c-shines-light-on-webs-dark-corners-11581944400) for several months, I quickly determined that they were shady and invovled in illegal practices. I did not quit because of that, I quit because I felt unwanted, by HR and Management. Later they would ask me to come back. This is the full story. There will be amazon affiliate links at the end of the page in the epiloge(I am currently unemployed).
 
 
 ## Should you trust me?
@@ -17,8 +17,6 @@ I was employed by [Micfo]() for several months, I quickly determined that they w
 There are a lot of reasons you shouldn't trust my word, here are a few:
 
     * I ran a Hacker Culture Blog for many years.
-    * Bipolar, severe enough to have ECT at one point.
-    * Prolific drinker
     * Kind of just generally the worst.
 *[Hacker Culture Blog](http://bsdpunk.blogspot.com)
 ### Why you might
