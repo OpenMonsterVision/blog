@@ -21,5 +21,15 @@
 go get github.com/bsdpunk/dndshell  The shell has tab completion and history for the session you are in.</description>
     </item>
     
+    <item>
+      <title>I guess I&#39;ll switch to zsh, thanks Apple</title>
+      <link>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</link>
+      <pubDate>Mon, 21 Oct 2019 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</guid>
+      <description>The What Apple wants us to switch to zsh, I don&amp;rsquo;t wanna. But I&amp;rsquo;m gonna.
+The Why Apple itself and 3rd party developers are now going write shit in zsh, presumably.</description>
+    </item>
+    
   </channel>
 </rss>

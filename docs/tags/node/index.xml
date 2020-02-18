@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>node on Open Monster Vision</title>
+    <link>https://openmonstervision.github.io/blog/tags/node/</link>
+    <description>Recent content in node on Open Monster Vision</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 17:21:28 -0500</lastBuildDate>
+    
+	<atom:link href="https://openmonstervision.github.io/blog/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Not to Build a Cli With Node</title>
+      <link>https://openmonstervision.github.io/blog/posts/how-not-to-build-a-cli-with-node/</link>
+      <pubDate>Tue, 13 Aug 2019 17:21:28 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-build-a-cli-with-node/</guid>
+      <description>The Who I&amp;rsquo;m just a dude, that writes shit down. Occasionally I write something useful for sys admins, but mostly my github is a garbage place where ideas go to die. I am @bsdpunk, and I am a terrible person. And mostly I write shells that don&amp;rsquo;t currently work, but maybe did at one time, or maybe can if you give me a minute.
+The What This guy wrote a post I don&amp;rsquo;t agree with and I&amp;rsquo;m going to complain about it.</description>
+    </item>
+    
+  </channel>
+</rss>

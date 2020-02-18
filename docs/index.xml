@@ -31,6 +31,16 @@ go get github.com/bsdpunk/dndshell  The shell has tab completion and history for
     </item>
     
     <item>
+      <title>I guess I&#39;ll switch to zsh, thanks Apple</title>
+      <link>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</link>
+      <pubDate>Mon, 21 Oct 2019 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</guid>
+      <description>The What Apple wants us to switch to zsh, I don&amp;rsquo;t wanna. But I&amp;rsquo;m gonna.
+The Why Apple itself and 3rd party developers are now going write shit in zsh, presumably.</description>
+    </item>
+    
+    <item>
       <title>Modding Stardew Valley using Visual Studio 2019 On MacOS</title>
       <link>https://openmonstervision.github.io/blog/posts/modding-stardew-valley-visual-studio-2019-on-macos/</link>
       <pubDate>Sun, 20 Oct 2019 17:45:48 -0600</pubDate>
@@ -42,6 +52,25 @@ xnb files You should get familiar with the various XNB files that make modding t
     </item>
     
     <item>
+      <title>How Not to Build a Cli With Node</title>
+      <link>https://openmonstervision.github.io/blog/posts/how-not-to-build-a-cli-with-node/</link>
+      <pubDate>Tue, 13 Aug 2019 17:21:28 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/how-not-to-build-a-cli-with-node/</guid>
+      <description>The Who I&amp;rsquo;m just a dude, that writes shit down. Occasionally I write something useful for sys admins, but mostly my github is a garbage place where ideas go to die. I am @bsdpunk, and I am a terrible person. And mostly I write shells that don&amp;rsquo;t currently work, but maybe did at one time, or maybe can if you give me a minute.
+The What This guy wrote a post I don&amp;rsquo;t agree with and I&amp;rsquo;m going to complain about it.</description>
+    </item>
+    
+    <item>
+      <title>That Time I Worked for A Criminal Organization</title>
+      <link>https://openmonstervision.github.io/blog/posts/that-time-i-worked-for-criminals/</link>
+      <pubDate>Tue, 13 Aug 2019 14:15:48 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/that-time-i-worked-for-criminals/</guid>
+      <description>That time I was employed by a criminal organization I was employed by [Micfo]() for several months, I quickly determined that they were shady and invovled in illegal practices. I did not quit because of that, I quit because I felt unwanted, by HR and Management. Later they would ask me to come back. This is the full story. There will be amazon affiliate links at the end of the page in the epiloge(I am currently unemployed).</description>
+    </item>
+    
+    <item>
       <title>Turning the D and D Monster Manual into JSON</title>
       <link>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</link>
       <pubDate>Tue, 10 Apr 2018 04:53:45 -0500</pubDate>
@@ -49,6 +78,18 @@ xnb files You should get familiar with the various XNB files that make modding t
       <guid>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</guid>
       <description>The What I found a PDF copy of the monster manual (Of course I also own a copy, but I needed digital for this). I was able to grep out all the tables for monster stats&amp;hellip;however, I couldn&amp;rsquo;t find a way to programatically get their names so I assigned them ID numbers. Git Repo
 GNU vs BSD Tools Though generally I script on my mac, I use the gnu tools vs the bsd tools.</description>
+    </item>
+    
+    <item>
+      <title>PHP Recruiting Email</title>
+      <link>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</link>
+      <pubDate>Fri, 23 Mar 2018 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</guid>
+      <description>An email from a recruiter Dustin,
+Always Are you ready to take the next steps in your career? &amp;lt; YES
+But No one wants to do php I’ve got a client looking for a PHP Developer (Laravel, Javascript) in Nashville, TN. The full job description is below. &amp;lt; So steps backwards?
+Indeed If you are a PHP Developer with experience, please read on! What You Will Be Doing &amp;lt; I am and this makes me sad.</description>
     </item>
     
     <item>

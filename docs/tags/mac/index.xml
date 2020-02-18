@@ -6,10 +6,20 @@
     <description>Recent content in mac on Open Monster Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 17:45:48 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 08:04:14 -0500</lastBuildDate>
     
 	<atom:link href="https://openmonstervision.github.io/blog/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I guess I&#39;ll switch to zsh, thanks Apple</title>
+      <link>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</link>
+      <pubDate>Mon, 21 Oct 2019 08:04:14 -0500</pubDate>
+      
+      <guid>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</guid>
+      <description>The What Apple wants us to switch to zsh, I don&amp;rsquo;t wanna. But I&amp;rsquo;m gonna.
+The Why Apple itself and 3rd party developers are now going write shit in zsh, presumably.</description>
+    </item>
     
     <item>
       <title>Modding Stardew Valley using Visual Studio 2019 On MacOS</title>

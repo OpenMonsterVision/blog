@@ -78,8 +78,28 @@
   </url>
   
   <url>
+    <loc>https://openmonstervision.github.io/blog/tags/apple/</loc>
+    <lastmod>2019-10-21T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/catalina/</loc>
+    <lastmod>2019-10-21T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/i-guess-i-ll-switch-to-zsh-thanks-apple/</loc>
+    <lastmod>2019-10-21T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://openmonstervision.github.io/blog/tags/mac/</loc>
-    <lastmod>2019-10-20T17:45:48-06:00</lastmod>
+    <lastmod>2019-10-21T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/zsh/</loc>
+    <lastmod>2019-10-21T08:04:14-05:00</lastmod>
   </url>
   
   <url>
@@ -108,12 +128,72 @@
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+    <loc>https://openmonstervision.github.io/blog/tags/bash/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openmonstervision.github.io/blog/tags/bash/</loc>
+    <loc>https://openmonstervision.github.io/blog/tags/cli/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/dependencies/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/how-not-to-build-a-cli-with-node/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/linux/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/node/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/unix/</loc>
+    <lastmod>2019-08-13T17:21:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/devops/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/interviews/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/micfo/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/ptr/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/that-time-i-worked-for-criminals/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/the-law/</loc>
+    <lastmod>2019-08-13T14:15:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/awk/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
   </url>
   
@@ -124,11 +204,6 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/grep/</loc>
-    <lastmod>2018-04-10T04:53:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/linux/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
   </url>
   
@@ -150,6 +225,31 @@
   <url>
     <loc>https://openmonstervision.github.io/blog/posts/turning-dungeons-and-dragons-monster-manual-pdf-into-json/</loc>
     <lastmod>2018-04-10T04:53:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/email/</loc>
+    <lastmod>2018-03-23T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/php/</loc>
+    <lastmod>2018-03-23T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/posts/php-recruiting-email/</loc>
+    <lastmod>2018-03-23T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/recruiter/</loc>
+    <lastmod>2018-03-23T08:04:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openmonstervision.github.io/blog/tags/recruiting/</loc>
+    <lastmod>2018-03-23T08:04:14-05:00</lastmod>
   </url>
   
   <url>
@@ -289,11 +389,6 @@
   
   <url>
     <loc>https://openmonstervision.github.io/blog/tags/career/</loc>
-    <lastmod>2017-10-20T11:14:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openmonstervision.github.io/blog/tags/interviews/</loc>
     <lastmod>2017-10-20T11:14:01-05:00</lastmod>
   </url>
   
